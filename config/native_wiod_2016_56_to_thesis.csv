@@ -1,0 +1,57 @@
+native_sector,target_sector,weight,review_status,rationale
+A01,A01,1,reviewed,identity
+A02,A02,1,reviewed,identity
+A03,A03,1,reviewed,identity
+B,B,1,reviewed,identity
+C10-C12,C10-C12,1,reviewed,identity
+C13-C15,C13-C15,1,reviewed,identity
+C16,C16,1,reviewed,identity
+C17,C17,1,reviewed,identity
+C18,C18,1,reviewed,identity
+C19,C19,1,reviewed,identity
+C20,C20,1,reviewed,identity
+C21,C20,1,reviewed,manual NACE-family review: pharmaceuticals retained with chemicals because thesis grid omits C21
+C22,C22,1,reviewed,identity
+C23,C23,1,reviewed,identity
+C24,C24,1,reviewed,identity
+C25,C25,1,reviewed,identity
+C26,C26,1,reviewed,identity
+C27,C27,1,reviewed,identity
+C28,C28,1,reviewed,identity
+C29,C29,1,reviewed,identity
+C30,C30,1,reviewed,identity
+C31_C32,C31_C32,1,reviewed,identity
+C33,C33,1,reviewed,identity
+D35,D35,1,reviewed,identity
+E36,E36,1,reviewed,identity
+E37-E39,E37-E39,1,reviewed,identity
+F,F,1,reviewed,identity
+G45,G45,1,reviewed,identity
+G46,G46,1,reviewed,identity
+G47,G47,1,reviewed,identity
+H49,H49,1,reviewed,identity
+H50,H50,1,reviewed,identity
+H51,H51,1,reviewed,identity
+H52,H52,1,reviewed,identity
+H53,J61,1,reviewed,manual review against concordance label Post and telecommunications (64)
+I,I,1,reviewed,identity
+J58,C18,1,reviewed,manual review against concordance product Printed matter and recorded media (22)
+J59_J60,J59_J60,1,reviewed,identity verified against real 2003-2004 campaign bundle
+J61,J61,1,reviewed,identity
+J62_J63,J62_J63,1,reviewed,identity
+K64,K64,1,reviewed,identity
+K65,K65,1,reviewed,identity
+K66,K66,1,reviewed,identity
+L68,L68,1,reviewed,identity
+M69_M70,M69_M70,1,reviewed,identity
+M71,M69_M70,1,reviewed,manual review: architectural and engineering retained with professional/business services
+M72,M72,1,reviewed,identity
+M73,M69_M70,1,reviewed,manual review: advertising and market research retained with professional/business services
+M74_M75,M69_M70,1,reviewed,manual review against concordance product Other business services (74)
+N,N,1,reviewed,identity
+O84,O84,1,reviewed,identity
+P85,P85,1,reviewed,identity
+Q,Q86,1,reviewed,code-label normalization from official JRC workbook to thesis grid
+R_S,R_S,1,reviewed,identity
+T,T,1,reviewed,identity
+U,U,1,reviewed,identity

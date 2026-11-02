@@ -1,0 +1,25 @@
+{
+  "profile": "wiot2013__from__wiot2013 / 2004 / CO2_1",
+  "provenance": {
+    "source": "EXIODeflator",
+    "database_pair": "wiot2013__from__wiot2013",
+    "year": 2004,
+    "impact": "CO2_1",
+    "artifact_impact_directory": "CO2",
+    "scope": "aggregate-only regression; pass the EXIODeflator checkout as artifact_root"
+  },
+  "aliases": {
+    "D_v": "Dint",
+    "D_YF": "YF",
+    "D_YB": "YB",
+    "D_y": "DYy",
+    "Total": "Total"
+  },
+  "effects": {
+    "Dint": {"path": "reports/sda_cross_source_impact_comparison/wiot2013/flow_from_wiot2013/impact_from_wiot2013/CO2/2004_Dint_tot_baseline.parquet", "value_column": "sample_0"},
+    "YF": {"path": "reports/sda_cross_source_impact_comparison/wiot2013/flow_from_wiot2013/impact_from_wiot2013/CO2/2004_YF_tot_baseline.parquet", "value_column": "sample_0"},
+    "YB": {"path": "reports/sda_cross_source_impact_comparison/wiot2013/flow_from_wiot2013/impact_from_wiot2013/CO2/2004_YB_tot_baseline.parquet", "value_column": "sample_0"},
+    "DYy": {"path": "reports/sda_cross_source_impact_comparison/wiot2013/flow_from_wiot2013/impact_from_wiot2013/CO2/2004_DYy_tot_baseline.parquet", "value_column": "sample_0"},
+    "Total": {"path": "reports/sda_cross_source_impact_comparison/wiot2013/flow_from_wiot2013/impact_from_wiot2013/CO2/2004_Total_tot_baseline.parquet", "value_column": "sample_0"}
+  }
+}

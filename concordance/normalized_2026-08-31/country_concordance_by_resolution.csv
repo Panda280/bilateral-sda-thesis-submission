@@ -1,0 +1,135 @@
+resolution,observed_country,canonical_country,mapping_basis,review_status
+2013,AUS,AUS,native WIOT2013 identity,reviewed
+2013,AUT,AUT,native WIOT2013 identity,reviewed
+2013,BEL,BEL,native WIOT2013 identity,reviewed
+2013,BGR,BGR,native WIOT2013 identity,reviewed
+2013,BRA,BRA,native WIOT2013 identity,reviewed
+2013,CAN,CAN,native WIOT2013 identity,reviewed
+2013,CHN,CHN,native WIOT2013 identity,reviewed
+2013,CYP,CYP,native WIOT2013 identity,reviewed
+2013,CZE,CZE,native WIOT2013 identity,reviewed
+2013,DEU,DEU,native WIOT2013 identity,reviewed
+2013,DNK,DNK,native WIOT2013 identity,reviewed
+2013,ESP,ESP,native WIOT2013 identity,reviewed
+2013,EST,EST,native WIOT2013 identity,reviewed
+2013,FIN,FIN,native WIOT2013 identity,reviewed
+2013,FRA,FRA,native WIOT2013 identity,reviewed
+2013,GBR,GBR,native WIOT2013 identity,reviewed
+2013,GRC,GRC,native WIOT2013 identity,reviewed
+2013,HUN,HUN,native WIOT2013 identity,reviewed
+2013,IDN,IDN,native WIOT2013 identity,reviewed
+2013,IND,IND,native WIOT2013 identity,reviewed
+2013,IRL,IRL,native WIOT2013 identity,reviewed
+2013,ITA,ITA,native WIOT2013 identity,reviewed
+2013,JPN,JPN,native WIOT2013 identity,reviewed
+2013,KOR,KOR,native WIOT2013 identity,reviewed
+2013,LTU,LTU,native WIOT2013 identity,reviewed
+2013,LUX,LUX,native WIOT2013 identity,reviewed
+2013,LVA,LVA,native WIOT2013 identity,reviewed
+2013,MEX,MEX,native WIOT2013 identity,reviewed
+2013,MLT,MLT,native WIOT2013 identity,reviewed
+2013,NLD,NLD,native WIOT2013 identity,reviewed
+2013,POL,POL,native WIOT2013 identity,reviewed
+2013,PRT,PRT,native WIOT2013 identity,reviewed
+2013,ROM,ROM,native WIOT2013 identity,reviewed
+2013,ROW,ROW,native WIOT2013 identity,reviewed
+2013,RUS,RUS,native WIOT2013 identity,reviewed
+2013,SVK,SVK,native WIOT2013 identity,reviewed
+2013,SVN,SVN,native WIOT2013 identity,reviewed
+2013,SWE,SWE,native WIOT2013 identity,reviewed
+2013,TUR,TUR,native WIOT2013 identity,reviewed
+2013,TWN,TWN,native WIOT2013 identity,reviewed
+2013,USA,USA,native WIOT2013 identity,reviewed
+2016,AUS,AUS,native WIOT2016 identity,reviewed
+2016,AUT,AUT,native WIOT2016 identity,reviewed
+2016,BEL,BEL,native WIOT2016 identity,reviewed
+2016,BGR,BGR,native WIOT2016 identity,reviewed
+2016,BRA,BRA,native WIOT2016 identity,reviewed
+2016,CAN,CAN,native WIOT2016 identity,reviewed
+2016,CHE,CHE,native WIOT2016 identity,reviewed
+2016,CHN,CHN,native WIOT2016 identity,reviewed
+2016,CYP,CYP,native WIOT2016 identity,reviewed
+2016,CZE,CZE,native WIOT2016 identity,reviewed
+2016,DEU,DEU,native WIOT2016 identity,reviewed
+2016,DNK,DNK,native WIOT2016 identity,reviewed
+2016,ESP,ESP,native WIOT2016 identity,reviewed
+2016,EST,EST,native WIOT2016 identity,reviewed
+2016,FIN,FIN,native WIOT2016 identity,reviewed
+2016,FRA,FRA,native WIOT2016 identity,reviewed
+2016,GBR,GBR,native WIOT2016 identity,reviewed
+2016,GRC,GRC,native WIOT2016 identity,reviewed
+2016,HRV,HRV,native WIOT2016 identity,reviewed
+2016,HUN,HUN,native WIOT2016 identity,reviewed
+2016,IDN,IDN,native WIOT2016 identity,reviewed
+2016,IND,IND,native WIOT2016 identity,reviewed
+2016,IRL,IRL,native WIOT2016 identity,reviewed
+2016,ITA,ITA,native WIOT2016 identity,reviewed
+2016,JPN,JPN,native WIOT2016 identity,reviewed
+2016,KOR,KOR,native WIOT2016 identity,reviewed
+2016,LTU,LTU,native WIOT2016 identity,reviewed
+2016,LUX,LUX,native WIOT2016 identity,reviewed
+2016,LVA,LVA,native WIOT2016 identity,reviewed
+2016,MEX,MEX,native WIOT2016 identity,reviewed
+2016,MLT,MLT,native WIOT2016 identity,reviewed
+2016,NLD,NLD,native WIOT2016 identity,reviewed
+2016,NOR,NOR,native WIOT2016 identity,reviewed
+2016,POL,POL,native WIOT2016 identity,reviewed
+2016,PRT,PRT,native WIOT2016 identity,reviewed
+2016,ROU,ROU,native WIOT2016 identity,reviewed
+2016,ROW,ROW,native WIOT2016 identity,reviewed
+2016,RUS,RUS,native WIOT2016 identity,reviewed
+2016,SVK,SVK,native WIOT2016 identity,reviewed
+2016,SVN,SVN,native WIOT2016 identity,reviewed
+2016,SWE,SWE,native WIOT2016 identity,reviewed
+2016,TUR,TUR,native WIOT2016 identity,reviewed
+2016,TWN,TWN,native WIOT2016 identity,reviewed
+2016,USA,USA,native WIOT2016 identity,reviewed
+R3,AT,AUT,countries_concordance.csv: EXIO -> WIOT2016 canonical code,reviewed
+R3,AU,AUS,countries_concordance.csv: EXIO -> WIOT2016 canonical code,reviewed
+R3,BE,BEL,countries_concordance.csv: EXIO -> WIOT2016 canonical code,reviewed
+R3,BG,BGR,countries_concordance.csv: EXIO -> WIOT2016 canonical code,reviewed
+R3,BR,BRA,countries_concordance.csv: EXIO -> WIOT2016 canonical code,reviewed
+R3,CA,CAN,countries_concordance.csv: EXIO -> WIOT2016 canonical code,reviewed
+R3,CH,CHE,countries_concordance.csv: EXIO -> WIOT2016 canonical code,reviewed
+R3,CN,CHN,countries_concordance.csv: EXIO -> WIOT2016 canonical code,reviewed
+R3,CY,CYP,countries_concordance.csv: EXIO -> WIOT2016 canonical code,reviewed
+R3,CZ,CZE,countries_concordance.csv: EXIO -> WIOT2016 canonical code,reviewed
+R3,DE,DEU,countries_concordance.csv: EXIO -> WIOT2016 canonical code,reviewed
+R3,DK,DNK,countries_concordance.csv: EXIO -> WIOT2016 canonical code,reviewed
+R3,EE,EST,countries_concordance.csv: EXIO -> WIOT2016 canonical code,reviewed
+R3,ES,ESP,countries_concordance.csv: EXIO -> WIOT2016 canonical code,reviewed
+R3,FI,FIN,countries_concordance.csv: EXIO -> WIOT2016 canonical code,reviewed
+R3,FR,FRA,countries_concordance.csv: EXIO -> WIOT2016 canonical code,reviewed
+R3,GB,GBR,countries_concordance.csv: EXIO -> WIOT2016 canonical code,reviewed
+R3,GR,GRC,countries_concordance.csv: EXIO -> WIOT2016 canonical code,reviewed
+R3,HR,HRV,countries_concordance.csv: EXIO -> WIOT2016 canonical code,reviewed
+R3,HU,HUN,countries_concordance.csv: EXIO -> WIOT2016 canonical code,reviewed
+R3,ID,IDN,countries_concordance.csv: EXIO -> WIOT2016 canonical code,reviewed
+R3,IE,IRL,countries_concordance.csv: EXIO -> WIOT2016 canonical code,reviewed
+R3,IN,IND,countries_concordance.csv: EXIO -> WIOT2016 canonical code,reviewed
+R3,IT,ITA,countries_concordance.csv: EXIO -> WIOT2016 canonical code,reviewed
+R3,JP,JPN,countries_concordance.csv: EXIO -> WIOT2016 canonical code,reviewed
+R3,KR,KOR,countries_concordance.csv: EXIO -> WIOT2016 canonical code,reviewed
+R3,LT,LTU,countries_concordance.csv: EXIO -> WIOT2016 canonical code,reviewed
+R3,LU,LUX,countries_concordance.csv: EXIO -> WIOT2016 canonical code,reviewed
+R3,LV,LVA,countries_concordance.csv: EXIO -> WIOT2016 canonical code,reviewed
+R3,MT,MLT,countries_concordance.csv: EXIO -> WIOT2016 canonical code,reviewed
+R3,MX,MEX,countries_concordance.csv: EXIO -> WIOT2016 canonical code,reviewed
+R3,NL,NLD,countries_concordance.csv: EXIO -> WIOT2016 canonical code,reviewed
+R3,NO,NOR,countries_concordance.csv: EXIO -> WIOT2016 canonical code,reviewed
+R3,PL,POL,countries_concordance.csv: EXIO -> WIOT2016 canonical code,reviewed
+R3,PT,PRT,countries_concordance.csv: EXIO -> WIOT2016 canonical code,reviewed
+R3,RO,ROU,countries_concordance.csv: EXIO -> WIOT2016 canonical code,reviewed
+R3,RU,RUS,countries_concordance.csv: EXIO -> WIOT2016 canonical code,reviewed
+R3,SE,SWE,countries_concordance.csv: EXIO -> WIOT2016 canonical code,reviewed
+R3,SI,SVN,countries_concordance.csv: EXIO -> WIOT2016 canonical code,reviewed
+R3,SK,SVK,countries_concordance.csv: EXIO -> WIOT2016 canonical code,reviewed
+R3,TR,TUR,countries_concordance.csv: EXIO -> WIOT2016 canonical code,reviewed
+R3,TW,TWN,countries_concordance.csv: EXIO -> WIOT2016 canonical code,reviewed
+R3,US,USA,countries_concordance.csv: EXIO -> WIOT2016 canonical code,reviewed
+R3,WA,ROW,countries_concordance.csv: EXIO -> WIOT2016 canonical code,reviewed
+R3,WE,ROW,countries_concordance.csv: EXIO -> WIOT2016 canonical code,reviewed
+R3,WF,ROW,countries_concordance.csv: EXIO -> WIOT2016 canonical code,reviewed
+R3,WL,ROW,countries_concordance.csv: EXIO -> WIOT2016 canonical code,reviewed
+R3,WM,ROW,countries_concordance.csv: EXIO -> WIOT2016 canonical code,reviewed
+R3,ZA,ROW,countries_concordance.csv: EXIO -> WIOT2016 canonical code,reviewed

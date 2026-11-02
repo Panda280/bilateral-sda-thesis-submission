@@ -1,0 +1,184 @@
+resolution,observed_sector,canonical_sector,sector_label,mapping_basis,review_status
+2016,A01,A01,Cultivation of paddy rice,corrected product-to-WIOD workbook,reviewed
+2016,A02,A02,"Forestry, logging and related service activities (02)",corrected product-to-WIOD workbook,reviewed
+2016,A03,A03,"Fishing, operating of fish hatcheries and fish farms; service activities incidental to fishing (05)",corrected product-to-WIOD workbook,reviewed
+2016,B,B,Mining of coal and lignite; extraction of peat (10),corrected product-to-WIOD workbook,reviewed
+2016,C10-C12,C10-C12,Processing of meat cattle,corrected product-to-WIOD workbook,reviewed
+2016,C13-C15,C13-C15,Manufacture of textiles (17),corrected product-to-WIOD workbook,reviewed
+2016,C16,C16,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials (20)",corrected product-to-WIOD workbook,reviewed
+2016,C17,C17,Pulp,corrected product-to-WIOD workbook,reviewed
+2016,C18,C18,"Publishing, printing and reproduction of recorded media (22)",corrected product-to-WIOD workbook,reviewed
+2016,C19,C19,Manufacture of coke oven products,corrected product-to-WIOD workbook,reviewed
+2016,C20,C20,"Plastics, basic",corrected product-to-WIOD workbook,reviewed
+2016,C22,C22,Manufacture of rubber and plastic products (25),corrected product-to-WIOD workbook,reviewed
+2016,C23,C23,Manufacture of glass and glass products,corrected product-to-WIOD workbook,reviewed
+2016,C24,C24,Manufacture of basic iron and steel and of ferro-alloys and first products thereof,corrected product-to-WIOD workbook,reviewed
+2016,C25,C25,"Manufacture of fabricated metal products, except machinery and equipment (28)",corrected product-to-WIOD workbook,reviewed
+2016,C26,C26,Manufacture of office machinery and computers (30),corrected product-to-WIOD workbook,reviewed
+2016,C27,C27,Manufacture of electrical machinery and apparatus n.e.c. (31),corrected product-to-WIOD workbook,reviewed
+2016,C28,C28,Manufacture of machinery and equipment n.e.c. (29),corrected product-to-WIOD workbook,reviewed
+2016,C29,C29,"Manufacture of motor vehicles, trailers and semi-trailers (34)",corrected product-to-WIOD workbook,reviewed
+2016,C30,C30,Manufacture of other transport equipment (35),corrected product-to-WIOD workbook,reviewed
+2016,C31_C32,C31_C32,Manufacture of furniture; manufacturing n.e.c. (36),corrected product-to-WIOD workbook,reviewed
+2016,C33,C33,Recycling of waste and scrap,corrected product-to-WIOD workbook,reviewed
+2016,D35,D35,Production of electricity by coal,corrected product-to-WIOD workbook,reviewed
+2016,E36,E36,"Collection, purification and distribution of water (41)",corrected product-to-WIOD workbook,reviewed
+2016,E37-E39,E37-E39,Incineration of waste: Food,corrected product-to-WIOD workbook,reviewed
+2016,F,F,Construction (45),corrected product-to-WIOD workbook,reviewed
+2016,G45,G45,"Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessoiries",corrected product-to-WIOD workbook,reviewed
+2016,G46,G46,"Wholesale trade and commission trade, except of motor vehicles and motorcycles (51)",corrected product-to-WIOD workbook,reviewed
+2016,G47,G47,"Retail trade, except of motor vehicles and motorcycles; repair of personal and household goods (52)",corrected product-to-WIOD workbook,reviewed
+2016,H49,H49,Transport via railways,corrected product-to-WIOD workbook,reviewed
+2016,H50,H50,Sea and coastal water transport,corrected product-to-WIOD workbook,reviewed
+2016,H51,H51,Air transport (62),corrected product-to-WIOD workbook,reviewed
+2016,H52,H52,Supporting and auxiliary transport activities; activities of travel agencies (63),corrected product-to-WIOD workbook,reviewed
+2016,I,I,Hotels and restaurants (55),corrected product-to-WIOD workbook,reviewed
+2016,J59_J60,J59_J60,"Motion picture, video and television programme production; programming and broadcasting activities",official JRC Sector sheet and real campaign bundle,reviewed
+2016,J61,J61,Post and telecommunications (64),corrected product-to-WIOD workbook,reviewed
+2016,J62_J63,J62_J63,Computer and related activities (72),corrected product-to-WIOD workbook,reviewed
+2016,K64,K64,"Financial intermediation, except insurance and pension funding (65)",corrected product-to-WIOD workbook,reviewed
+2016,K65,K65,"Insurance and pension funding, except compulsory social security (66)",corrected product-to-WIOD workbook,reviewed
+2016,K66,K66,Activities auxiliary to financial intermediation (67),corrected product-to-WIOD workbook,reviewed
+2016,L68,L68,Real estate activities (70),corrected product-to-WIOD workbook,reviewed
+2016,M69_M70,M69_M70,Other business activities (74),corrected product-to-WIOD workbook,reviewed
+2016,M72,M72,Research and development (73),corrected product-to-WIOD workbook,reviewed
+2016,N,N,Renting of machinery and equipment without operator and of personal and household goods (71),corrected product-to-WIOD workbook,reviewed
+2016,O84,O84,Public administration and defence; compulsory social security (75),corrected product-to-WIOD workbook,reviewed
+2016,P85,P85,Education (80),corrected product-to-WIOD workbook,reviewed
+2016,Q86,Q86,Health and social work (85),corrected product-to-WIOD workbook,reviewed
+2016,R_S,R_S,Activities of membership organisation n.e.c. (91),corrected product-to-WIOD workbook,reviewed
+2016,T,T,Private households with employed persons (95),corrected product-to-WIOD workbook,reviewed
+2016,U,U,Extra-territorial organizations and bodies,corrected product-to-WIOD workbook,reviewed
+2013,15t16,15t16,Processing of meat cattle,corrected product-to-WIOD workbook,reviewed
+2013,17t18,17t18,Manufacture of textiles (17),corrected product-to-WIOD workbook,reviewed
+2013,19,19,"Tanning and dressing of leather; manufacture of luggage, handbags, saddlery, harness and footwear (19)",corrected product-to-WIOD workbook,reviewed
+2013,20,20,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials (20)",corrected product-to-WIOD workbook,reviewed
+2013,21t22,21t22,Pulp,corrected product-to-WIOD workbook,reviewed
+2013,23,23,Manufacture of coke oven products,corrected product-to-WIOD workbook,reviewed
+2013,24,24,"Plastics, basic",corrected product-to-WIOD workbook,reviewed
+2013,25,25,Manufacture of rubber and plastic products (25),corrected product-to-WIOD workbook,reviewed
+2013,26,26,Manufacture of glass and glass products,corrected product-to-WIOD workbook,reviewed
+2013,27t28,27t28,Manufacture of basic iron and steel and of ferro-alloys and first products thereof,corrected product-to-WIOD workbook,reviewed
+2013,29,29,Manufacture of machinery and equipment n.e.c. (29),corrected product-to-WIOD workbook,reviewed
+2013,30t33,30t33,Manufacture of office machinery and computers (30),corrected product-to-WIOD workbook,reviewed
+2013,34t35,34t35,"Manufacture of motor vehicles, trailers and semi-trailers (34)",corrected product-to-WIOD workbook,reviewed
+2013,36t37,36t37,Manufacture of furniture; manufacturing n.e.c. (36),corrected product-to-WIOD workbook,reviewed
+2013,50,50,"Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessoiries",corrected product-to-WIOD workbook,reviewed
+2013,51,51,"Wholesale trade and commission trade, except of motor vehicles and motorcycles (51)",corrected product-to-WIOD workbook,reviewed
+2013,52,52,"Retail trade, except of motor vehicles and motorcycles; repair of personal and household goods (52)",corrected product-to-WIOD workbook,reviewed
+2013,60,60,Transport via railways,corrected product-to-WIOD workbook,reviewed
+2013,61,61,Sea and coastal water transport,corrected product-to-WIOD workbook,reviewed
+2013,62,62,Air transport (62),corrected product-to-WIOD workbook,reviewed
+2013,63,63,Supporting and auxiliary transport activities; activities of travel agencies (63),corrected product-to-WIOD workbook,reviewed
+2013,64,64,Post and telecommunications (64),corrected product-to-WIOD workbook,reviewed
+2013,70,70,Real estate activities (70),corrected product-to-WIOD workbook,reviewed
+2013,71t74,71t74,Renting of machinery and equipment without operator and of personal and household goods (71),corrected product-to-WIOD workbook,reviewed
+2013,AtB,AtB,Cultivation of paddy rice,corrected product-to-WIOD workbook,reviewed
+2013,C,C,Mining of coal and lignite; extraction of peat (10),corrected product-to-WIOD workbook,reviewed
+2013,E,E,Production of electricity by coal,corrected product-to-WIOD workbook,reviewed
+2013,F,F,Construction (45),corrected product-to-WIOD workbook,reviewed
+2013,H,H,Hotels and restaurants (55),corrected product-to-WIOD workbook,reviewed
+2013,J,J,"Financial intermediation, except insurance and pension funding (65)",corrected product-to-WIOD workbook,reviewed
+2013,L,L,Public administration and defence; compulsory social security (75),corrected product-to-WIOD workbook,reviewed
+2013,M,M,Education (80),corrected product-to-WIOD workbook,reviewed
+2013,N,N,Health and social work (85),corrected product-to-WIOD workbook,reviewed
+2013,O,O,Activities of membership organisation n.e.c. (91),corrected product-to-WIOD workbook,reviewed
+2013,P,P,Private households with employed persons (95),corrected product-to-WIOD workbook,reviewed
+R3,1,1,Cultivation of paddy rice (+2 more),R3 group 1,reviewed
+R3,2,2,"Cultivation of vegetables, fruit, nuts; Cultivation of oil seeds",R3 group 2,reviewed
+R3,3,3,"Cultivation of sugar cane, sugar beet (+2 more)",R3 group 3,reviewed
+R3,4,4,Cattle farming; Raw milk,R3 group 4,reviewed
+R3,5,5,Pigs farming (+2 more),R3 group 5,reviewed
+R3,6,6,"Animal products nec; Wool, silk-worm cocoons",R3 group 6,reviewed
+R3,7,7,"Forestry, logging and related service activities",R3 group 7,reviewed
+R3,8,8,"Fishing, operating of fish hatcheries and fish farms; service activities incidental to fishing",R3 group 8,reviewed
+R3,9,9,Mining of coal and lignite; extraction of peat,R3 group 9,reviewed
+R3,10,10,"Extraction of crude petroleum and services related to crude oil extraction, excluding surveying (+2 more)",R3 group 10,reviewed
+R3,11,11,Mining of uranium and thorium ores,R3 group 11,reviewed
+R3,12,12,Mining of iron ores,R3 group 12,reviewed
+R3,13,13,Mining of copper ores and concentrates (+5 more),R3 group 13,reviewed
+R3,14,14,Quarrying of stone,R3 group 14,reviewed
+R3,15,15,Quarrying of sand and clay,R3 group 15,reviewed
+R3,16,16,"Mining of chemical and fertilizer minerals, production of salt, other mining and quarrying n.e.c.",R3 group 16,reviewed
+R3,17,17,Processing of meat cattle (+3 more),R3 group 17,reviewed
+R3,18,18,Processing vegetable oils and fats,R3 group 18,reviewed
+R3,19,19,Processing of dairy products,R3 group 19,reviewed
+R3,20,20,Processed rice; Processing of Food products nec,R3 group 20,reviewed
+R3,21,21,Sugar refining,R3 group 21,reviewed
+R3,22,22,Manufacture of beverages,R3 group 22,reviewed
+R3,23,23,Manufacture of fish products,R3 group 23,reviewed
+R3,24,24,Manufacture of tobacco products,R3 group 24,reviewed
+R3,25,25,Manufacture of textiles; Manufacture of wearing apparel; dressing and dyeing of fur,R3 group 25,reviewed
+R3,26,26,"Tanning and dressing of leather; manufacture of luggage, handbags, saddlery, harness and footwear",R3 group 26,reviewed
+R3,27,27,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials; Re-processing of secondary wood material into new wood material",R3 group 27,reviewed
+R3,28,28,Pulp; Re-processing of secondary paper into new pulp,R3 group 28,reviewed
+R3,29,29,Paper,R3 group 29,reviewed
+R3,30,30,"Publishing, printing and reproduction of recorded media",R3 group 30,reviewed
+R3,31,31,Manufacture of coke oven products,R3 group 31,reviewed
+R3,32,32,Petroleum Refinery,R3 group 32,reviewed
+R3,33,33,Processing of nuclear fuel,R3 group 33,reviewed
+R3,34,34,"Plastics, basic; Re-processing of secondary plastic into new plastic",R3 group 34,reviewed
+R3,35,35,N-fertiliser; P- and other fertiliser,R3 group 35,reviewed
+R3,36,36,Chemicals nec,R3 group 36,reviewed
+R3,37,37,Manufacture of rubber and plastic products,R3 group 37,reviewed
+R3,38,38,Manufacture of glass and glass products; Re-processing of secondary glass into new glass,R3 group 38,reviewed
+R3,39,39,Manufacture of ceramic goods,R3 group 39,reviewed
+R3,40,40,"Manufacture of bricks, tiles and construction products, in baked clay",R3 group 40,reviewed
+R3,41,41,"Manufacture of cement, lime and plaster; Re-processing of ash into clinker",R3 group 41,reviewed
+R3,42,42,Manufacture of other non-metallic mineral products n.e.c.,R3 group 42,reviewed
+R3,43,43,Manufacture of basic iron and steel and of ferro-alloys and first products thereof; Re-processing of secondary steel into new steel,R3 group 43,reviewed
+R3,44,44,Precious metals production; Re-processing of secondary preciuos metals into new preciuos metals,R3 group 44,reviewed
+R3,45,45,Aluminium production; Re-processing of secondary aluminium into new aluminium,R3 group 45,reviewed
+R3,46,46,"Lead, zinc and tin production; Re-processing of secondary lead into new lead",R3 group 46,reviewed
+R3,47,47,Copper production; Re-processing of secondary copper into new copper,R3 group 47,reviewed
+R3,48,48,Other non-ferrous metal production; Re-processing of secondary other non-ferrous metals into new other non-ferrous metals,R3 group 48,reviewed
+R3,49,49,Casting of metals,R3 group 49,reviewed
+R3,50,50,"Manufacture of fabricated metal products, except machinery and equipment",R3 group 50,reviewed
+R3,51,51,Manufacture of machinery and equipment n.e.c.,R3 group 51,reviewed
+R3,52,52,Manufacture of office machinery and computers (+2 more),R3 group 52,reviewed
+R3,53,53,Manufacture of electrical machinery and apparatus n.e.c.,R3 group 53,reviewed
+R3,54,54,"Manufacture of motor vehicles, trailers and semi-trailers; Manufacture of other transport equipment",R3 group 54,reviewed
+R3,55,55,Manufacture of furniture; manufacturing n.e.c.,R3 group 55,reviewed
+R3,56,56,Recycling of waste and scrap; Recycling of bottles by direct reuse,R3 group 56,reviewed
+R3,57,57,Production of electricity by coal (+2 more),R3 group 57,reviewed
+R3,58,58,Production of electricity by nuclear,R3 group 58,reviewed
+R3,59,59,Production of electricity by hydro,R3 group 59,reviewed
+R3,60,60,Production of electricity by wind; Production of electricity by solar photovoltaic,R3 group 60,reviewed
+R3,61,61,Production of electricity by biomass and waste (+4 more),R3 group 61,reviewed
+R3,62,62,Transmission of electricity,R3 group 62,reviewed
+R3,63,63,Distribution and trade of electricity,R3 group 63,reviewed
+R3,64,64,Manufacture of gas; distribution of gaseous fuels through mains,R3 group 64,reviewed
+R3,65,65,Steam and hot water supply,R3 group 65,reviewed
+R3,66,66,"Collection, purification and distribution of water",R3 group 66,reviewed
+R3,67,67,Construction,R3 group 67,reviewed
+R3,68,68,Re-processing of secondary construction material into aggregates,R3 group 68,reviewed
+R3,69,69,"Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessoiries; Retail sale of automotive fuel",R3 group 69,reviewed
+R3,70,70,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",R3 group 70,reviewed
+R3,71,71,"Retail trade, except of motor vehicles and motorcycles; repair of personal and household goods",R3 group 71,reviewed
+R3,72,72,Hotels and restaurants,R3 group 72,reviewed
+R3,73,73,Transport via railways,R3 group 73,reviewed
+R3,74,74,Other land transport,R3 group 74,reviewed
+R3,75,75,Transport via pipelines,R3 group 75,reviewed
+R3,76,76,Sea and coastal water transport,R3 group 76,reviewed
+R3,77,77,Inland water transport,R3 group 77,reviewed
+R3,78,78,Air transport,R3 group 78,reviewed
+R3,79,79,Supporting and auxiliary transport activities; activities of travel agencies,R3 group 79,reviewed
+R3,80,80,Post and telecommunications,R3 group 80,reviewed
+R3,81,81,"Financial intermediation, except insurance and pension funding",R3 group 81,reviewed
+R3,82,82,"Insurance and pension funding, except compulsory social security",R3 group 82,reviewed
+R3,83,83,Activities auxiliary to financial intermediation,R3 group 83,reviewed
+R3,84,84,Real estate activities,R3 group 84,reviewed
+R3,85,85,Renting of machinery and equipment without operator and of personal and household goods,R3 group 85,reviewed
+R3,86,86,Computer and related activities (+2 more),R3 group 86,reviewed
+R3,87,87,Public administration and defence; compulsory social security,R3 group 87,reviewed
+R3,88,88,Education,R3 group 88,reviewed
+R3,89,89,Health and social work,R3 group 89,reviewed
+R3,90,90,Incineration of waste: Food (+6 more),R3 group 90,reviewed
+R3,91,91,"Biogasification of food waste, incl. land application (+2 more)",R3 group 91,reviewed
+R3,92,92,"Composting of food waste, incl. land application; Composting of paper and wood, incl. land application",R3 group 92,reviewed
+R3,93,93,"Waste water treatment, food; Waste water treatment, other",R3 group 93,reviewed
+R3,94,94,Landfill of waste: Food (+5 more),R3 group 94,reviewed
+R3,95,95,"Activities of membership organisation n.e.c.; Recreational, cultural and sporting activities",R3 group 95,reviewed
+R3,96,96,Other service activities; Private households with employed persons,R3 group 96,reviewed
+R3,97,97,Manure treatment outside SI3 scope (WIOT2013 AtB),R3 group 97,reviewed
+R3,98,98,Extra-territorial organisations outside SI3 scope (WIOT2013 L),R3 group 98,reviewed

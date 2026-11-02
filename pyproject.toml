@@ -1,0 +1,35 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "bilateral-sda-attribution"
+version = "0.1.0"
+description = "Dimension-aware bilateral structural decomposition analysis"
+requires-python = ">=3.11"
+dependencies = ["numpy>=1.26"]
+
+[project.scripts]
+bilateral-sda = "sda.cli:main"
+
+[project.optional-dependencies]
+test = ["pytest>=8"]
+legacy-parquet = ["pandas>=2.1", "pyarrow>=14"]
+# For sda.output.reports.export_effect_parquet/export_group_effect_parquet
+# (writing new Parquet reports) -- distinct from legacy-parquet above
+# (reading old EXIODeflator-era Parquet artifacts for regression
+# comparison, sda.regression). Same package versions; kept as a separate
+# extra so installing one doesn't imply a reason to need the other.
+parquet = ["pandas>=2.1", "pyarrow>=14"]
+native-wiod = ["pandas>=2.1", "xlrd>=2.0.1"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+sda = ["output/*.json"]
+
+[tool.pytest.ini_options]
+addopts = "-q"
+testpaths = ["tests"]
+pythonpath = ["src", "scripts"]

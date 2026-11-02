@@ -1,0 +1,23 @@
+{
+  "wiod2013_environmental_accounts": {
+    "official_page": "https://www.rug.nl/ggdc/valuechain/wiod/wiod-2013-release?lang=en",
+    "download_url": "https://dataverse.nl/api/access/datafile/199110",
+    "downloaded_filename": "wiod2013_environmental_accounts.zip",
+    "sha256": "e6655a8fb8317bb33fbf7e08505e78826bcc7b96f3d18831c0209931ca7b4d14",
+    "verified_unit": "Gg (kt) CO2",
+    "verified_period": "1995-2009",
+    "status": "downloaded_and_hashed"
+  },
+  "jrc_wiod_compatible_environmental_accounts": {
+    "official_methodology": "https://publications.jrc.ec.europa.eu/repository/handle/JRC116234",
+    "official_archived_page": "https://web.archive.org/web/20191001230620/https://ec.europa.eu/jrc/en/research-topic/economic-environmental-and-social-effects-of-globalisation",
+    "download_url": "https://joint-research-centre.ec.europa.eu/system/files/2019-09/co2em56.zip",
+    "release": "Corsatea et al. 2019, update 2000-2016",
+    "published_indicator": "total CO2; methodology defines CO2 = CO2en + CO2nen",
+    "verified_unit": "kt CO2",
+    "verified_period": "2000-2016",
+    "downloaded_filename": "co2em56.zip",
+    "sha256": "ad056b915473208f572fbfb946922651908348c5bc2600b15f7e324938c237f9",
+    "status": "downloaded_and_hashed"
+  }
+}

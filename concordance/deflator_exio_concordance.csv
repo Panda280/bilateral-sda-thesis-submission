@@ -1,0 +1,201 @@
+deflator_product,exio_product,description
+p01.a,C_PARI,Paddy rice
+p01.b,C_WHEA,Wheat
+p01.c,C_OCER,Cereal grains nec
+p01.d,C_FVEG,"Vegetables, fruit, nuts"
+p01.e,C_OILS,Oil seeds
+p01.f,C_SUGB,"Sugar cane, sugar beet"
+p01.g,C_FIBR,Plant-based fibers
+p01.h,C_OTCR,Crops nec
+p01.i,C_CATL,Cattle
+p01.j,C_PIGS,Pigs
+p01.k,C_PLTR,Poultry
+p01.l,C_OMEA,Meat animals nec
+p01.m,C_OANP,Animal products nec
+p01.n,C_MILK,Raw milk
+p01.o,C_WOOL,"Wool, silk-worm cocoons"
+p01.w.1,C_MANC,Manure (conventional treatment)
+p01.w.2,C_MANB,Manure (biogas treatment)
+p02,C_FORE,"Products of forestry, logging and related services (02)"
+p05,C_FISH,Fish and other fishing products; services incidental of fishing (05)
+p10.a,C_ANTH,Anthracite
+p10.b,C_COKC,Coking Coal
+p10.c,C_OTBC,Other Bituminous Coal
+p10.d,C_SUBC,Sub-Bituminous Coal
+p10.e,C_PATF,Patent Fuel
+p10.f,C_LIBC,Lignite/Brown Coal
+p10.g,C_BKBP,BKB/Peat Briquettes
+p10.h,C_PEAT,Peat
+p11.a,C_COIL,"Crude petroleum and services related to crude oil extraction, excluding surveying"
+p11.b,C_GASE,"Natural gas and services related to natural gas extraction, excluding surveying"
+p11.b.1,C_GASL,Natural Gas Liquids
+p11.c,C_OGPL,Other Hydrocarbons
+p12,C_ORAN,Uranium and thorium ores (12)
+p13.1,C_IRON,Iron ores
+p13.20.11,C_COPO,Copper ores and concentrates
+p13.20.12,C_NIKO,Nickel ores and concentrates
+p13.20.13,C_ALUO,Aluminium ores and concentrates
+p13.20.14,C_PREO,Precious metal ores and concentrates
+p13.20.15,C_LZTO,"Lead, zinc and tin ores and concentrates"
+p13.20.16,C_ONFO,Other non-ferrous metal ores and concentrates
+p14.1,C_STON,Stone
+p14.2,C_SDCL,Sand and clay
+p14.3,C_CHMF,"Chemical and fertilizer minerals, salt and other mining and quarrying products n.e.c."
+p15.a,C_PCAT,Products of meat cattle
+p15.b,C_PPIG,Products of meat pigs
+p15.c,C_PPLT,Products of meat poultry
+p15.d,C_POME,Meat products nec
+p15.e,C_VOIL,products of Vegetable oils and fats
+p15.f,C_DAIR,Dairy products
+p15.g,C_RICE,Processed rice
+p15.h,C_SUGR,Sugar
+p15.i,C_OFOD,Food products nec
+p15.j,C_BEVR,Beverages
+p15.k,C_FSHP,Fish products
+p16,C_TOBC,Tobacco products (16)
+p17,C_TEXT,Textiles (17)
+p18,C_GARM,Wearing apparel; furs (18)
+p19,C_LETH,Leather and leather products (19)
+p20,C_WOOD,Wood and products of wood and cork (except furniture); articles of straw and plaiting materials (20)
+p20.w,C_WOOW,"Wood material for treatment, Re-processing of secondary wood material into new wood material"
+p21.1,C_PULP,Pulp
+p21.w.1,C_PAPR,"Secondary paper for treatment, Re-processing of secondary paper into new pulp"
+p21.2,C_PAPE,Paper and paper products
+p22,C_MDIA,Printed matter and recorded media (22)
+p23.1.a,C_COKE,Coke Oven Coke
+p23.1.b,C_GCOK,Gas Coke
+p23.1.c,C_COTA,Coal Tar
+p23.20.a,C_MGSL,Motor Gasoline
+p23.20.b,C_AGSL,Aviation Gasoline
+p23.20.c,C_GJET,Gasoline Type Jet Fuel
+p23.20.d,C_KJET,Kerosene Type Jet Fuel
+p23.20.e,C_KERO,Kerosene
+p23.20.f,C_DOIL,Gas/Diesel Oil
+p23.20.g,C_FOIL,Heavy Fuel Oil
+p23.20.h,C_RGAS,Refinery Gas
+p23.20.i,C_LPGA,Liquefied Petroleum Gases (LPG)
+p23.20.j,C_REFF,Refinery Feedstocks
+p23.20.k,C_ETHA,Ethane
+p23.20.l,C_NAPT,Naphtha
+p23.20.m,C_WHSP,White Spirit & SBP
+p23.20.n,C_LUBR,Lubricants
+p23.20.o,C_BITU,Bitumen
+p23.20.p,C_PARW,Paraffin Waxes
+p23.20.q,C_PETC,Petroleum Coke
+p23.20.r,C_NSPP,Non-specified Petroleum Products
+p23.3,C_NUCF,Nuclear fuel
+p24.a,C_PLAS,"Plastics, basic"
+p24.a.w,C_PLAW,"Secondary plastic for treatment, Re-processing of secondary plastic into new plastic"
+p24.b,C_NFER,N-fertiliser
+p24.c,C_PFER,P- and other fertiliser
+p24.d,C_CHEM,Chemicals nec
+p24.e,C_CHAR,Charcoal
+p24.f,C_ADDC,Additives/Blending Components
+p24.g,C_BIOG,Biogasoline
+p24.h,C_BIOD,Biodiesels
+p24.i,C_OBIO,Other Liquid Biofuels
+p25,C_RUBP,Rubber and plastic products (25)
+p26.a,C_GLAS,Glass and glass products
+p26.a.w,C_GLAW,"Secondary glass for treatment, Re-processing of secondary glass into new glass"
+p26.b,C_CRMC,Ceramic goods
+p26.c,C_BRIK,"Bricks, tiles and construction products, in baked clay"
+p26.d,C_CMNT,"Cement, lime and plaster"
+p26.d.w,C_ASHW,"Ash for treatment, Re-processing of ash into clinker"
+p26.e,C_ONMM,Other non-metallic mineral products
+p27.a,C_STEL,Basic iron and steel and of ferro-alloys and first products thereof
+p27.a.w,C_STEW,"Secondary steel for treatment, Re-processing of secondary steel into new steel"
+p27.41,C_PREM,Precious metals
+p27.41.w,C_PREW,"Secondary preciuos metals for treatment, Re-processing of secondary preciuos metals into new preciuos metals"
+p27.42,C_ALUM,Aluminium and aluminium products
+p27.42.w,C_ALUW,"Secondary aluminium for treatment, Re-processing of secondary aluminium into new aluminium"
+p27.43,C_LZTP,"Lead, zinc and tin and products thereof"
+p27.43.w,C_LZTW,"Secondary lead for treatment, Re-processing of secondary lead into new lead"
+p27.44,C_COPP,Copper products
+p27.44.w,C_COPW,"Secondary copper for treatment, Re-processing of secondary copper into new copper"
+p27.45,C_ONFM,Other non-ferrous metal products
+p27.45.w,C_ONFW,"Secondary other non-ferrous metals for treatment, Re-processing of secondary other non-ferrous metals into new other non-ferrous metals"
+p27.5,C_METC,Foundry work services
+p28,C_FABM,"Fabricated metal products, except machinery and equipment (28)"
+p29,C_MACH,Machinery and equipment n.e.c. (29)
+p30,C_OFMA,Office machinery and computers (30)
+p31,C_ELMA,Electrical machinery and apparatus n.e.c. (31)
+p32,C_RATV,"Radio, television and communication equipment and apparatus (32)"
+p33,C_MEIN,"Medical, precision and optical instruments, watches and clocks (33)"
+p34,C_MOTO,"Motor vehicles, trailers and semi-trailers (34)"
+p35,C_OTRE,Other transport equipment (35)
+p36,C_FURN,Furniture; other manufactured goods n.e.c. (36)
+p37,C_RYMS,Secondary raw materials
+p37.w.1,C_BOTW,"Bottles for treatment, Recycling of bottles by direct reuse"
+p40.11.a,C_POWC,Electricity by coal
+p40.11.b,C_POWG,Electricity by gas
+p40.11.c,C_POWN,Electricity by nuclear
+p40.11.d,C_POWH,Electricity by hydro
+p40.11.e,C_POWW,Electricity by wind
+p40.11.f,C_POWP,Electricity by petroleum and other oil derivatives
+p40.11.g,C_POWB,Electricity by biomass and waste
+p40.11.h,C_POWS,Electricity by solar photovoltaic
+p40.11.i,C_POWE,Electricity by solar thermal
+p40.11.j,C_POWO,"Electricity by tide, wave, ocean"
+p40.11.k,C_POWM,Electricity by Geothermal
+p40.11.l,C_POWZ,Electricity nec
+p40.12,C_POWT,Transmission services of electricity
+p40.13,C_POWD,Distribution and trade services of electricity
+p40.2.a,C_COOG,Coke oven gas
+p40.2.b,C_MBFG,Blast Furnace Gas
+p40.2.c,C_MOSG,Oxygen Steel Furnace Gas
+p40.2.d,C_MGWG,Gas Works Gas
+p40.2.e,C_MBIO,Biogas
+p40.2.1,C_GASD,Distribution services of gaseous fuels through mains
+p40.3,C_HWAT,Steam and hot water supply services
+p41,C_WATR,"Collected and purified water, distribution services of water (41)"
+p45,C_CONS,Construction work (45)
+p45.w,C_CONW,"Secondary construction material for treatment, Re-processing of secondary construction material into aggregates"
+p50.a,C_TDMO,"Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessoiries"
+p50.b,C_TDFU,Retail trade services of motor fuel
+p51,C_TDWH,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)"
+p52,C_TDRT,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)"
+p55,C_HORE,Hotel and restaurant services (55)
+p60.1,C_TRAI,Railway transportation services
+p60.2,C_TLND,Other land transportation services
+p60.3,C_TPIP,Transportation services via pipelines
+p61.1,C_TWAS,Sea and coastal water transportation services
+p61.2,C_TWAI,Inland water transportation services
+p62,C_TAIR,Air transport services (62)
+p63,C_TAUX,Supporting and auxiliary transport services; travel agency services (63)
+p64,C_PTEL,Post and telecommunication services (64)
+p65,C_FINT,"Financial intermediation services, except insurance and pension funding services (65)"
+p66,C_FINS,"Insurance and pension funding services, except compulsory social security services (66)"
+p67,C_FAUX,Services auxiliary to financial intermediation (67)
+p70,C_REAL,Real estate services (70)
+p71,C_MARE,Renting services of machinery and equipment without operator and of personal and household goods (71)
+p72,C_COMP,Computer and related services (72)
+p73,C_RESD,Research and development services (73)
+p74,C_OBUS,Other business services (74)
+p75,C_PADF,Public administration and defence services; compulsory social security services (75)
+p80,C_EDUC,Education services (80)
+p85,C_HEAL,Health and social work services (85)
+p90.1.a,C_INCF,Food waste for treatment: incineration
+p90.1.b,C_INCP,Paper waste for treatment: incineration
+p90.1.c,C_INCL,Plastic waste for treatment: incineration
+p90.1.d,C_INCM,Intert/metal waste for treatment: incineration
+p90.1.e,C_INCT,Textiles waste for treatment: incineration
+p90.1.f,C_INCW,Wood waste for treatment: incineration
+p90.1.g,C_INCO,Oil/hazardous waste for treatment: incineration
+p90.2.a,C_BIOF,Food waste for treatment: biogasification and land application
+p90.2.b,C_BIOP,Paper waste for treatment: biogasification and land application
+p90.2.c,C_BIOS,Sewage sludge for treatment: biogasification and land application
+p90.3.a,C_COMF,Food waste for treatment: composting and land application
+p90.3.b,C_COMW,Paper and wood waste for treatment: composting and land application
+p90.4.a,C_WASF,Food waste for treatment: waste water treatment
+p90.4.b,C_WASO,Other waste for treatment: waste water treatment
+p90.5.a,C_LANF,Food waste for treatment: landfill
+p90.5.b,C_LANP,Paper for treatment: landfill
+p90.5.c,C_LANL,Plastic waste for treatment: landfill
+p90.5.d,C_LANI,Inert/metal/hazardous waste for treatment: landfill
+p90.5.e,C_LANT,Textiles waste for treatment: landfill
+p90.5.f,C_LANW,Wood waste for treatment: landfill
+p91,C_ORGA,Membership organisation services n.e.c. (91)
+p92,C_RECR,"Recreational, cultural and sporting services (92)"
+p93,C_OSER,Other services (93)
+p95,C_PRHH,Private households with employed persons (95)
+p99,C_EXTO,Extra-territorial organizations and bodies

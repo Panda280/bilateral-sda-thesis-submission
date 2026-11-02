@@ -1,0 +1,68 @@
+"""Dimension-aware transformations and versioned persistence."""
+
+from .aggregation import AxisGrouping, aggregate_effect, collapse_driver_to_country
+from .coverage import CoverageManifest, RunCoverage, RunSpec
+from .reports import (
+    BANNED_NARRATIVE_PHRASES,
+    EFFECT_REGISTRY,
+    GROUP_EFFECT_REGISTRY,
+    REQUIRED_NARRATIVE_PHRASES,
+    aggregate_to_group_sector,
+    build_group_axis,
+    build_group_sector_reports,
+    export_canonical_reports,
+    export_effect_csv,
+    export_effect_parquet,
+    export_effect_report,
+    export_group_effect_csv,
+    export_group_effect_parquet,
+    export_source_country_cube,
+    export_source_group_sector_cube,
+    export_yf_source_country_cube,
+    export_yf_source_group_sector_cube,
+    export_source_group_sector_interaction,
+    export_yf_group_product_interaction,
+    lint_narrative_terminology,
+    render_effect_narrative,
+    render_group_narratives,
+)
+from .storage import StorageError, load_result, publish_result
+from .statistics import StreamingStatistics
+from .annual import publish_annual_report, publish_panel
+
+__all__ = [
+    "AxisGrouping",
+    "BANNED_NARRATIVE_PHRASES",
+    "CoverageManifest",
+    "EFFECT_REGISTRY",
+    "GROUP_EFFECT_REGISTRY",
+    "REQUIRED_NARRATIVE_PHRASES",
+    "StorageError",
+    "StreamingStatistics",
+    "RunCoverage",
+    "RunSpec",
+    "aggregate_effect",
+    "collapse_driver_to_country",
+    "aggregate_to_group_sector",
+    "build_group_axis",
+    "build_group_sector_reports",
+    "export_canonical_reports",
+    "export_effect_csv",
+    "export_effect_parquet",
+    "export_effect_report",
+    "export_group_effect_csv",
+    "export_group_effect_parquet",
+    "export_source_country_cube",
+    "export_source_group_sector_cube",
+    "export_yf_source_country_cube",
+    "export_yf_source_group_sector_cube",
+    "export_source_group_sector_interaction",
+    "export_yf_group_product_interaction",
+    "lint_narrative_terminology",
+    "load_result",
+    "publish_result",
+    "render_effect_narrative",
+    "render_group_narratives",
+    "publish_annual_report",
+    "publish_panel",
+]

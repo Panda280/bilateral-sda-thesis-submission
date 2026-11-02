@@ -1,0 +1,89 @@
+{
+  "files": [
+    {
+      "file": "countries_concordance.csv",
+      "sha256": "1e6efc2ba7e7a8d064089748b4cfd9fad2f0698e217d5c4456794bd64396a6c1",
+      "bytes": 749,
+      "data_rows": 49
+    },
+    {
+      "file": "deflator_exio_concordance.csv",
+      "sha256": "4f770abbc7385dd1c88362e2ce8f80d89ebc58fc7c6960f6efbd131ac4e0a99a",
+      "bytes": 10242,
+      "data_rows": 200
+    },
+    {
+      "file": "EXIOBASE3_product_to_WIOD_concordance.xlsx",
+      "sha256": "666215fbbcb5b9454eeb92c9860958b9be9451c96422803265fb79640cbc1e5c",
+      "bytes": 20424
+    },
+    {
+      "file": "EXIOBASE3_product_to_WIOD_concordance_2026-08-31.xlsx",
+      "sha256": "e5ceffacaa119f39b6f5231e28ae3bc267504705f4a269b75f2a8b4c4b3411c0",
+      "bytes": 20032
+    },
+    {
+      "file": "EXIOBASE3_R3_aggregation.xlsx",
+      "sha256": "c4b316fc0bdb968231fa35d7d2ab45b243866b8ea26001b02c1f27037965a734",
+      "bytes": 22342
+    },
+    {
+      "file": "EXIOBASE3_R3_aggregation_98group_2026-08-31.xlsx",
+      "sha256": "9b8a472e6b9b4ab705925808075c39597943ea9a47f1b579e075cc9092709106",
+      "bytes": 22146
+    },
+    {
+      "file": "kyoto_country_groups.csv",
+      "sha256": "7ecf304552808de52077555c0dec3703568bbfa0a20935aea4a78b7d1d3fcb67",
+      "bytes": 1094,
+      "data_rows": 46
+    },
+    {
+      "file": "normalized_2026-08-31/analytical_group_registry.csv",
+      "sha256": "2162f376943a79155a3fe19bc3b6f0c6ffb2df8437fbbb0e96a05f0300e935a4",
+      "bytes": 1669,
+      "data_rows": 45
+    },
+    {
+      "file": "normalized_2026-08-31/country_concordance_by_resolution.csv",
+      "sha256": "436afadbef347c619c9a4fbaa5210f02b52f761263b31a6c8bb49010b729bdcb",
+      "bytes": 7891,
+      "data_rows": 134
+    },
+    {
+      "file": "normalized_2026-08-31/fine_to_coarse_country_sector_review.csv",
+      "sha256": "3926e998b82819bf7c718d3ebadbfabb18844e8bab86978f497ae5ca59af8a2d",
+      "bytes": 834692,
+      "data_rows": 9604
+    },
+    {
+      "file": "normalized_2026-08-31/granularity_sector_mapping_review.csv",
+      "sha256": "5b006de0d03b1aa4e67cd939c3524c1d24e9d2e87e023b79dc843b9c5fec85c7",
+      "bytes": 27396,
+      "data_rows": 196
+    },
+    {
+      "file": "normalized_2026-08-31/sector_concordance_by_resolution.csv",
+      "sha256": "32f0df12c14ce09778e44425a2c93658aa492bb71ad12d3e1e19e45d1054f9e4",
+      "bytes": 17527,
+      "data_rows": 183
+    },
+    {
+      "file": "normalized_2026-08-31/validation_manifest.json",
+      "sha256": "69219c2da0805dfb8e5502007f870cfb1a9aedc945cc6b2fe61dedea72428b24",
+      "bytes": 3732
+    },
+    {
+      "file": "wiod2013_woid2016_exio.csv",
+      "sha256": "199d9e60be810eefe2d69e7d7bf2104c5699d7f09c43e5fa9e98b1a49c7308f8",
+      "bytes": 11498,
+      "data_rows": 163
+    },
+    {
+      "file": "price_deflators_ultimate.xlsx",
+      "sha256": "7b80d130cebc168af614370ed86eb6375f10b356c7d43d01d0b330fe0743c418",
+      "bytes": 1835204
+    }
+  ],
+  "copied_without_modification": true
+}

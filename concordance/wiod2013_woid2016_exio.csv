@@ -1,0 +1,164 @@
+,Name,CodeTxt,WIOT2016,WIOT2013,EXIOBASE3
+0,Cultivation of paddy rice,A_PARI,A01,AtB,A_PARI
+1,Cultivation of wheat,A_WHEA,A01,AtB,A_WHEA
+2,Cultivation of cereal grains nec,A_OCER,A01,AtB,A_OCER
+3,"Cultivation of vegetables, fruit, nuts",A_FVEG,A01,AtB,A_FVEG
+4,Cultivation of oil seeds,A_OILS,A01,AtB,A_OILS
+5,"Cultivation of sugar cane, sugar beet",A_SUGB,A01,AtB,A_SUGB
+6,Cultivation of plant-based fibers,A_FIBR,A01,AtB,A_FIBR
+7,Cultivation of crops nec,A_OTCR,A01,AtB,A_OTCR
+8,Cattle farming,A_CATL,A01,AtB,A_CATL
+9,Pigs farming,A_PIGS,A01,AtB,A_PIGS
+10,Poultry farming,A_PLTR,A01,AtB,A_PLTR
+11,Meat animals nec,A_OMEA,A01,AtB,A_OMEA
+12,Animal products nec,A_OANP,A01,AtB,A_OANP
+13,Raw milk,A_MILK,A01,AtB,A_MILK
+14,"Wool, silk-worm cocoons",A_WOOL,A01,AtB,A_WOOL
+15,"Manure treatment (conventional), storage and land application",A_MANC,A01,AtB,A_MANC
+16,"Manure treatment (biogas), storage and land application",A_MANB,A01,AtB,A_MANB
+17,"Forestry, logging and related service activities (02)",A_FORE,A02,AtB,A_FORE
+18,"Fishing, operating of fish hatcheries and fish farms; service activities incidental to fishing (05)",A_FISH,A03,AtB,A_FISH
+19,Mining of coal and lignite; extraction of peat (10),A_COAL,B,C,A_COAL
+20,"Extraction of crude petroleum and services related to crude oil extraction, excluding surveying",A_COIL,B,C,A_COIL
+21,"Extraction of natural gas and services related to natural gas extraction, excluding surveying",A_GASE,B,C,A_GASE
+22,"Extraction, liquefaction, and regasification of other petroleum and gaseous materials",A_OGPL,B,C,A_OGPL
+23,Mining of uranium and thorium ores (12),A_ORAN,B,C,A_ORAN
+24,Mining of iron ores,A_IRON,B,C,A_IRON
+25,Mining of copper ores and concentrates,A_COPO,B,C,A_COPO
+26,Mining of nickel ores and concentrates,A_NIKO,B,C,A_NIKO
+27,Mining of aluminium ores and concentrates,A_ALUO,B,C,A_ALUO
+28,Mining of precious metal ores and concentrates,A_PREO,B,C,A_PREO
+29,"Mining of lead, zinc and tin ores and concentrates",A_LZTO,B,C,A_LZTO
+30,Mining of other non-ferrous metal ores and concentrates,A_ONFO,B,C,A_ONFO
+31,Quarrying of stone,A_STON,B,C,A_STON
+32,Quarrying of sand and clay,A_SDCL,B,C,A_SDCL
+33,"Mining of chemical and fertilizer minerals, production of salt, other mining and quarrying n.e.c.",A_CHMF,B,C,A_CHMF
+34,Processing of meat cattle,A_PCAT,C10-C12,15t16,A_PCAT
+35,Processing of meat pigs,A_PPIG,C10-C12,15t16,A_PPIG
+36,Processing of meat poultry,A_PPLT,C10-C12,15t16,A_PPLT
+37,Production of meat products nec,A_POME,C10-C12,15t16,A_POME
+38,Processing vegetable oils and fats,A_VOIL,C10-C12,15t16,A_VOIL
+39,Processing of dairy products,A_DAIR,C10-C12,15t16,A_DAIR
+40,Processed rice,A_RICE,C10-C12,15t16,A_RICE
+41,Sugar refining,A_SUGR,C10-C12,15t16,A_SUGR
+42,Processing of Food products nec,A_OFOD,C10-C12,15t16,A_OFOD
+43,Manufacture of beverages,A_BEVR,C10-C12,15t16,A_BEVR
+44,Manufacture of fish products,A_FSHP,C10-C12,15t16,A_FSHP
+45,Manufacture of tobacco products (16),A_TOBC,C10-C12,15t16,A_TOBC
+46,Manufacture of textiles (17),A_TEXT,C13-C15,17t19,A_TEXT
+47,Manufacture of wearing apparel; dressing and dyeing of fur (18),A_GARM,C13-C15,17t19,A_GARM
+48,"Tanning and dressing of leather; manufacture of luggage, handbags, saddlery, harness and footwear (19)",A_LETH,C13-C15,17t19,A_LETH
+49,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials (20)",A_WOOD,C16,20,A_WOOD
+50,Re-processing of secondary wood material into new wood material,A_WOOW,C16,20,A_WOOW
+51,Pulp,A_PULP,C17,21t22,A_PULP
+52,Re-processing of secondary paper into new pulp,A_PAPR,C17,21t22,A_PAPR
+53,Paper,A_PAPE,C17,21t22,A_PAPE
+54,"Publishing, printing and reproduction of recorded media (22)",A_MDIA,C18_J58,21t22,A_MDIA
+55,Manufacture of coke oven products,A_COKE,C19,23,A_COKE
+56,Petroleum Refinery,A_REFN,C19,23,A_REFN
+57,Processing of nuclear fuel,A_NUCF,C19,23,A_NUCF
+58,"Plastics, basic",A_PLAS,C20_C21,24,A_PLAS
+59,Re-processing of secondary plastic into new plastic,A_PLAW,C20_C21,24,A_PLAW
+60,N-fertiliser,A_NFER,C20_C21,24,A_NFER
+61,P- and other fertiliser,A_PFER,C20_C21,24,A_PFER
+62,Chemicals nec,A_CHEM,C20_C21,24,A_CHEM
+63,Manufacture of rubber and plastic products (25),A_RUBP,C22,25,A_RUBP
+64,Manufacture of glass and glass products,A_GLAS,C23,26,A_GLAS
+65,Re-processing of secondary glass into new glass,A_GLAW,C23,26,A_GLAW
+66,Manufacture of ceramic goods,A_CRMC,C23,26,A_CRMC
+67,"Manufacture of bricks, tiles and construction products, in baked clay",A_BRIK,C23,26,A_BRIK
+68,"Manufacture of cement, lime and plaster",A_CMNT,C23,26,A_CMNT
+69,Re-processing of ash into clinker,A_ASHW,C23,26,A_ASHW
+70,Manufacture of other non-metallic mineral products n.e.c.,A_ONMM,C23,26,A_ONMM
+71,Manufacture of basic iron and steel and of ferro-alloys and first products thereof,A_STEL,C24,27t28,A_STEL
+72,Re-processing of secondary steel into new steel,A_STEW,C24,27t28,A_STEW
+73,Precious metals production,A_PREM,C24,27t28,A_PREM
+74,Re-processing of secondary preciuos metals into new preciuos metals,A_PREW,C24,27t28,A_PREW
+75,Aluminium production,A_ALUM,C24,27t28,A_ALUM
+76,Re-processing of secondary aluminium into new aluminium,A_ALUW,C24,27t28,A_ALUW
+77,"Lead, zinc and tin production",A_LZTP,C24,27t28,A_LZTP
+78,"Re-processing of secondary lead into new lead, zinc and tin",A_LZTW,C24,27t28,A_LZTW
+79,Copper production,A_COPP,C24,27t28,A_COPP
+80,Re-processing of secondary copper into new copper,A_COPW,C24,27t28,A_COPW
+81,Other non-ferrous metal production,A_ONFM,C24,27t28,A_ONFM
+82,Re-processing of secondary other non-ferrous metals into new other non-ferrous metals,A_ONFW,C24,27t28,A_ONFW
+83,Casting of metals,A_METC,C24,27t28,A_METC
+84,"Manufacture of fabricated metal products, except machinery and equipment (28)",A_FABM,C25,27t28,A_FABM
+85,Manufacture of machinery and equipment n.e.c. (29),A_MACH,C28,29,A_MACH
+86,Manufacture of office machinery and computers (30),A_OFMA,C26,30t33,A_OFMA
+87,Manufacture of electrical machinery and apparatus n.e.c. (31),A_ELMA,C27,30t33,A_ELMA
+88,"Manufacture of radio, television and communication equipment and apparatus (32)",A_RATV,J59_J60,21t22,A_RATV
+89,"Manufacture of medical, precision and optical instruments, watches and clocks (33)",A_MEIN,C28,29,A_MEIN
+90,"Manufacture of motor vehicles, trailers and semi-trailers (34)",A_MOTO,C29,34t35,A_MOTO
+91,Manufacture of other transport equipment (35),A_OTRE,C30,34t35,A_OTRE
+92,Manufacture of furniture; manufacturing n.e.c. (36),A_FURN,C31_C32,36t37,A_FURN
+93,Recycling of waste and scrap,A_RYMS,C33,36t37,A_RYMS
+94,Recycling of bottles by direct reuse,A_BOTW,C33,36t37,A_BOTW
+95,Production of electricity by coal,A_POWC,D35,E,A_POWC
+96,Production of electricity by gas,A_POWG,D35,E,A_POWG
+97,Production of electricity by nuclear,A_POWN,D35,E,A_POWN
+98,Production of electricity by hydro,A_POWH,D35,E,A_POWH
+99,Production of electricity by wind,A_POWW,D35,E,A_POWW
+100,Production of electricity by petroleum and other oil derivatives,A_POWP,D35,E,A_POWP
+101,Production of electricity by biomass and waste,A_POWB,D35,E,A_POWB
+102,Production of electricity by solar photovoltaic,A_POWS,D35,E,A_POWS
+103,Production of electricity by solar thermal,A_POWE,D35,E,A_POWE
+104,"Production of electricity by tide, wave, ocean",A_POWO,D35,E,A_POWO
+105,Production of electricity by Geothermal,A_POWM,D35,E,A_POWM
+106,Production of electricity nec,A_POWZ,D35,E,A_POWZ
+107,Transmission of electricity,A_POWT,D35,E,A_POWT
+108,Distribution and trade of electricity,A_POWD,D35,E,A_POWD
+109,Manufacture of gas; distribution of gaseous fuels through mains,A_GASD,D35,E,A_GASD
+110,Steam and hot water supply,A_HWAT,D35,E,A_HWAT
+111,"Collection, purification and distribution of water (41)",A_WATR,E36,E,A_WATR
+112,Construction (45),A_CONS,F,F,A_CONS
+113,Re-processing of secondary construction material into aggregates,A_CONW,F,F,A_CONW
+114,"Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessoiries",A_TDMO,G45,50,A_TDMO
+115,Retail sale of automotive fuel,A_TDFU,G45,50,A_TDFU
+116,"Wholesale trade and commission trade, except of motor vehicles and motorcycles (51)",A_TDWH,G46,51,A_TDWH
+117,"Retail trade, except of motor vehicles and motorcycles; repair of personal and household goods (52)",A_TDRT,G47,52,A_TDRT
+118,Hotels and restaurants (55),A_HORE,I,H,A_HORE
+119,Transport via railways,A_TRAI,H49,60,A_TRAI
+120,Other land transport,A_TLND,H49,60,A_TLND
+121,Transport via pipelines,A_TPIP,H49,60,A_TPIP
+122,Sea and coastal water transport,A_TWAS,H50,61,A_TWAS
+123,Inland water transport,A_TWAI,H50,61,A_TWAI
+124,Air transport (62),A_TAIR,H51,62,A_TAIR
+125,Supporting and auxiliary transport activities; activities of travel agencies (63),A_TAUX,H52,63,A_TAUX
+126,Post and telecommunications (64),A_PTEL,H53_J61,64,A_PTEL
+127,"Financial intermediation, except insurance and pension funding (65)",A_FINT,K64,J,A_FINT
+128,"Insurance and pension funding, except compulsory social security (66)",A_FINS,K65,J,A_FINS
+129,Activities auxiliary to financial intermediation (67),A_FAUX,K66,J,A_FAUX
+130,Real estate activities (70),A_REAL,L68,70,A_REAL
+131,Renting of machinery and equipment without operator and of personal and household goods (71),A_MARE,M69_M70_M71_M72_M73_M74_M75_N,71t74,A_MARE
+132,Computer and related activities (72),A_COMP,J62_J63,71t74,A_COMP
+133,Research and development (73),A_RESD,M69_M70_M71_M72_M73_M74_M75_N,71t74,A_RESD
+134,Other business activities (74),A_OBUS,M69_M70_M71_M72_M73_M74_M75_N,71t74,A_OBUS
+135,Public administration and defence; compulsory social security (75),A_PADF,O84,L,A_PADF
+136,Education (80),A_EDUC,P85,M,A_EDUC
+137,Health and social work (85),A_HEAL,Q,N,A_HEAL
+138,Incineration of waste: Food,A_INCF,E37-E39,E,A_INCF
+139,Incineration of waste: Paper,A_INCP,E37-E39,E,A_INCP
+140,Incineration of waste: Plastic,A_INCL,E37-E39,E,A_INCL
+141,Incineration of waste: Metals and Inert materials,A_INCM,E37-E39,E,A_INCM
+142,Incineration of waste: Textiles,A_INCT,E37-E39,E,A_INCT
+143,Incineration of waste: Wood,A_INCW,E37-E39,E,A_INCW
+144,Incineration of waste: Oil/Hazardous waste,A_INCO,E37-E39,E,A_INCO
+145,"Biogasification of food waste, incl. land application",A_BIOF,E37-E39,E,A_BIOF
+146,"Biogasification of paper, incl. land application",A_BIOP,E37-E39,E,A_BIOP
+147,"Biogasification of sewage slugde, incl. land application",A_BIOS,E37-E39,E,A_BIOS
+148,"Composting of food waste, incl. land application",A_COMF,E37-E39,E,A_COMF
+149,"Composting of paper and wood, incl. land application",A_COMW,E37-E39,E,A_COMW
+150,"Waste water treatment, food",A_WASF,E37-E39,E,A_WASF
+151,"Waste water treatment, other",A_WASO,E37-E39,E,A_WASO
+152,Landfill of waste: Food,A_LANF,E37-E39,E,A_LANF
+153,Landfill of waste: Paper,A_LANP,E37-E39,E,A_LANP
+154,Landfill of waste: Plastic,A_LANL,E37-E39,E,A_LANL
+155,Landfill of waste: Inert/metal/hazardous,A_LANI,E37-E39,E,A_LANI
+156,Landfill of waste: Textiles,A_LANT,E37-E39,E,A_LANT
+157,Landfill of waste: Wood,A_LANW,E37-E39,E,A_LANW
+158,Activities of membership organisation n.e.c. (91),A_ORGA,R_S,O,A_ORGA
+159,"Recreational, cultural and sporting activities (92)",A_RECR,R_S,O,A_RECR
+160,Other service activities (93),A_OSER,R_S,O,A_OSER
+161,Private households with employed persons (95),A_PRHH,T,P,A_PRHH
+162,Extra-territorial organizations and bodies,A_EXTO,U,Q,A_EXTO

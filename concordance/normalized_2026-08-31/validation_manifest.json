@@ -1,0 +1,87 @@
+{
+  "generated_at": "2026-08-31",
+  "status": "review_required",
+  "units": "not_applicable",
+  "price_basis": "not_applicable",
+  "row_counts": {
+    "analytical_groups": 45,
+    "countries": 134,
+    "sectors": 183,
+    "sector_review": 196,
+    "country_sector_review": 9604
+  },
+  "unresolved_sector_mappings": [
+    {
+      "fine_resolution": "R3",
+      "fine_sector": "54",
+      "fine_sector_label": "Manufacture of motor vehicles, trailers and semi-trailers; Manufacture of other transport equipment",
+      "coarse_resolution": "2016",
+      "coarse_sector": "",
+      "mapping_status": "unresolved_one_to_many",
+      "candidate_coarse_sectors": "C29 | C30",
+      "candidate_count": 2,
+      "review_note": "Genuine composite R3 group spans multiple coarse sectors. A data-derived allocation matrix is required; no target or weights selected."
+    },
+    {
+      "fine_resolution": "R3",
+      "fine_sector": "86",
+      "fine_sector_label": "Computer and related activities (+2 more)",
+      "coarse_resolution": "2016",
+      "coarse_sector": "",
+      "mapping_status": "unresolved_one_to_many",
+      "candidate_coarse_sectors": "J62_J63 | M69_M70 | M72",
+      "candidate_count": 3,
+      "review_note": "Genuine composite R3 group spans multiple coarse sectors. A data-derived allocation matrix is required; no target or weights selected."
+    },
+    {
+      "fine_resolution": "R3",
+      "fine_sector": "96",
+      "fine_sector_label": "Other service activities; Private households with employed persons",
+      "coarse_resolution": "2016",
+      "coarse_sector": "",
+      "mapping_status": "unresolved_one_to_many",
+      "candidate_coarse_sectors": "R_S | T",
+      "candidate_count": 2,
+      "review_note": "Genuine composite R3 group spans multiple coarse sectors. A data-derived allocation matrix is required; no target or weights selected."
+    },
+    {
+      "fine_resolution": "R3",
+      "fine_sector": "96",
+      "fine_sector_label": "Other service activities; Private households with employed persons",
+      "coarse_resolution": "2013",
+      "coarse_sector": "",
+      "mapping_status": "unresolved_one_to_many",
+      "candidate_coarse_sectors": "O | P",
+      "candidate_count": 2,
+      "review_note": "Genuine composite R3 group spans multiple coarse sectors. A data-derived allocation matrix is required; no target or weights selected."
+    }
+  ],
+  "invariants": {
+    "unique_group_country": true,
+    "unique_country_key": true,
+    "unique_sector_key": true
+  },
+  "sources": {
+    "countries_concordance.csv": "1e6efc2ba7e7a8d064089748b4cfd9fad2f0698e217d5c4456794bd64396a6c1",
+    "deflator_exio_concordance.csv": "4f770abbc7385dd1c88362e2ce8f80d89ebc58fc7c6960f6efbd131ac4e0a99a",
+    "EXIOBASE3_product_to_WIOD_concordance_2026-08-31.xlsx": "e5ceffacaa119f39b6f5231e28ae3bc267504705f4a269b75f2a8b4c4b3411c0",
+    "EXIOBASE3_R3_aggregation_98group_2026-08-31.xlsx": "9b8a472e6b9b4ab705925808075c39597943ea9a47f1b579e075cc9092709106",
+    "kyoto_country_groups.csv": "7ecf304552808de52077555c0dec3703568bbfa0a20935aea4a78b7d1d3fcb67",
+    "price_deflators_ultimate.xlsx": "7b80d130cebc168af614370ed86eb6375f10b356c7d43d01d0b330fe0743c418",
+    "wiod2013_woid2016_exio.csv": "199d9e60be810eefe2d69e7d7bf2104c5699d7f09c43e5fa9e98b1a49c7308f8"
+  },
+  "manual_product_overrides": [
+    {
+      "product_code": "C_RATV",
+      "WIOT2016_code": "C26",
+      "WIOT2013_code": "30t33",
+      "basis": "ISIC Rev.3 division 32 label; WIOD computer/electronic/optical manufacturing"
+    },
+    {
+      "product_code": "C_MEIN",
+      "WIOT2016_code": "C26",
+      "WIOT2013_code": "30t33",
+      "basis": "ISIC Rev.3 division 33 label; WIOD computer/electronic/optical manufacturing"
+    }
+  ]
+}

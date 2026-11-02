@@ -1,0 +1,68 @@
+{
+  "contract_id": "bilateral_sda_dashboard_reporting",
+  "contract_version": 2,
+  "language_policy": "accounting_attribution",
+  "products": {
+    "annual_hierarchy": {
+      "columns": ["run_id", "year_previous", "year_current", "resolution", "units", "node_id", "parent_node_id", "depth", "contribution", "positive_contribution", "negative_contribution", "gross_contribution", "denominator_value", "denominator_status", "net_pct_of_parent_gross", "is_publishable", "validation_status"],
+      "partition_keys": ["year_previous", "year_current", "resolution"],
+      "sort": ["depth", "node_id"]
+    },
+    "annual_drilldown": {
+      "columns": ["run_id", "year_previous", "year_current", "resolution", "units", "effect_id", "grain_id", "emitter_country", "emitter_sector", "emitter_country_group", "emitter_sector_group", "driver_country", "driver_sector", "driver_country_group", "driver_sector_group", "consumer_country", "consumer_country_group", "demanded_sector", "demanded_sector_group", "source_country", "source_country_group", "source_group", "source_sector", "source_sector_group", "contribution", "positive_contribution", "negative_contribution", "gross_contribution", "denominator_value", "denominator_status", "net_pct_of_parent_gross", "is_publishable", "validation_status"],
+      "partition_keys": ["year_previous", "year_current", "resolution", "effect_id", "grain_id"],
+      "sort": ["effect_id", "grain_id", "contribution"]
+    },
+    "cross_year_panel": {
+      "columns": ["panel_id", "run_id", "year_previous", "year_current", "resolution", "units", "effect_id", "grain_id", "label", "contribution", "positive_contribution", "negative_contribution", "gross_contribution", "denominator_value", "denominator_status", "net_pct_of_parent_gross", "is_publishable", "validation_status"],
+      "partition_keys": ["panel_id", "resolution"],
+      "forbidden_partition_keys": ["year_previous", "year_current"],
+      "sort": ["panel_id", "resolution", "year_current", "effect_id", "label"]
+    }
+  },
+  "metrics": {
+    "contribution": "signed sum",
+    "positive_contribution": "sum of values greater than zero; nonnegative",
+    "negative_contribution": "sum of values less than zero; nonpositive",
+    "gross_contribution": "positive_contribution - negative_contribution",
+    "net_pct_of_parent_gross": "100 * contribution / denominator_value when denominator_status is ok"
+  },
+  "denominator_statuses": ["ok", "zero", "near_zero", "not_applicable"],
+  "nodes": [
+    {"node_id": "delta_g", "parent_node_id": null, "children": ["emission_intensity", "leontief_production_structure", "final_demand"], "is_publishable": true},
+    {"node_id": "emission_intensity", "parent_node_id": "delta_g", "children": ["D_v"], "is_publishable": true},
+    {"node_id": "D_v", "parent_node_id": "emission_intensity", "children": [], "is_publishable": true},
+    {"node_id": "leontief_production_structure", "parent_node_id": "delta_g", "children": ["D_C", "D_A_x"], "is_publishable": true},
+    {"node_id": "D_C", "parent_node_id": "leontief_production_structure", "children": [], "is_publishable": true},
+    {"node_id": "D_A_x", "parent_node_id": "leontief_production_structure", "children": ["D_T_coef", "D_w_coef"], "is_publishable": true},
+    {"node_id": "D_T_coef", "parent_node_id": "D_A_x", "children": [], "is_publishable": true},
+    {"node_id": "D_w_coef", "parent_node_id": "D_A_x", "children": [], "is_publishable": true},
+    {"node_id": "final_demand", "parent_node_id": "delta_g", "children": ["D_YF", "D_YB", "D_y"], "is_publishable": true},
+    {"node_id": "D_YF", "parent_node_id": "final_demand", "children": [], "is_publishable": true},
+    {"node_id": "D_YB", "parent_node_id": "final_demand", "children": [], "is_publishable": true},
+    {"node_id": "D_y", "parent_node_id": "final_demand", "children": [], "is_publishable": true}
+  ],
+  "effects": {
+    "D_v": {"roles": ["emitter_country", "emitter_sector"], "allowed_grains": ["emitter_country", "emitter_sector", "emitter_country_group", "emitter_sector_group"]},
+    "D_C": {"roles": ["emitter_country", "emitter_sector", "driver_country", "driver_sector", "source_country", "source_group", "source_sector"], "allowed_grains": ["emitter_country", "emitter_sector", "emitter_country_group", "emitter_sector_group", "driver_country", "driver_sector", "driver_country_group", "driver_sector_group", "source_country", "source_country_group", "source_group", "source_sector", "source_sector_group"]},
+    "D_A_x": {"roles": ["emitter_country", "emitter_sector", "driver_country", "driver_sector"], "allowed_grains": ["emitter_country", "emitter_sector", "emitter_country_group", "emitter_sector_group", "driver_country", "driver_sector", "driver_country_group", "driver_sector_group"]},
+    "D_T_coef": {"roles": ["emitter_country", "emitter_sector", "driver_country", "driver_sector", "source_sector"], "allowed_grains": ["emitter_country", "emitter_sector", "emitter_country_group", "emitter_sector_group", "driver_country", "driver_sector", "driver_country_group", "driver_sector_group", "source_sector", "source_sector_group"]},
+    "D_w_coef": {"roles": ["emitter_country", "emitter_sector", "driver_country", "driver_sector", "source_sector"], "allowed_grains": ["emitter_country", "emitter_sector", "emitter_country_group", "emitter_sector_group", "driver_country", "driver_sector", "driver_country_group", "driver_sector_group", "source_sector", "source_sector_group"]},
+    "D_YF": {"roles": ["emitter_country", "emitter_sector", "consumer_country", "demanded_sector", "source_country", "source_group", "source_sector"], "allowed_grains": ["emitter_country", "emitter_sector", "emitter_country_group", "emitter_sector_group", "consumer_country", "consumer_country_group", "demanded_sector", "demanded_sector_group", "source_country", "source_country_group", "source_group", "source_sector", "source_sector_group"]},
+    "D_YB": {"roles": ["emitter_country", "emitter_sector", "consumer_country", "demanded_sector"], "allowed_grains": ["emitter_country", "emitter_sector", "emitter_country_group", "emitter_sector_group", "consumer_country", "consumer_country_group", "demanded_sector", "demanded_sector_group"]},
+    "D_y": {"roles": ["emitter_country", "emitter_sector", "consumer_country"], "allowed_grains": ["emitter_country", "emitter_sector", "emitter_country_group", "emitter_sector_group", "consumer_country", "consumer_country_group"]}
+  },
+  "panels": [
+    {"panel_id": "global_hierarchy", "source": "annual_hierarchy", "grain_id": "node_id"},
+    {"panel_id": "emitter_country", "source": "annual_drilldown", "grain_id": "emitter_country"},
+    {"panel_id": "emitter_sector", "source": "annual_drilldown", "grain_id": "emitter_sector"},
+    {"panel_id": "emitter_country_group", "source": "annual_drilldown", "grain_id": "emitter_country_group"},
+    {"panel_id": "driver_country", "source": "annual_drilldown", "grain_id": "driver_country"},
+    {"panel_id": "driver_sector", "source": "annual_drilldown", "grain_id": "driver_sector"},
+    {"panel_id": "consumer_country", "source": "annual_drilldown", "grain_id": "consumer_country"},
+    {"panel_id": "demanded_sector", "source": "annual_drilldown", "grain_id": "demanded_sector"},
+    {"panel_id": "source_country", "source": "annual_drilldown", "grain_id": "source_country"},
+    {"panel_id": "source_group", "source": "annual_drilldown", "grain_id": "source_group"},
+    {"panel_id": "source_sector", "source": "annual_drilldown", "grain_id": "source_sector"}
+  ]
+}

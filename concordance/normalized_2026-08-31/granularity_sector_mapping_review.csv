@@ -1,0 +1,197 @@
+fine_resolution,fine_sector,fine_sector_label,coarse_resolution,coarse_sector,mapping_status,candidate_coarse_sectors,candidate_count,review_note
+R3,1,Cultivation of paddy rice (+2 more),2016,A01,reviewed_unique,A01,1,All member products share one coarse target.
+R3,2,"Cultivation of vegetables, fruit, nuts; Cultivation of oil seeds",2016,A01,reviewed_unique,A01,1,All member products share one coarse target.
+R3,3,"Cultivation of sugar cane, sugar beet (+2 more)",2016,A01,reviewed_unique,A01,1,All member products share one coarse target.
+R3,4,Cattle farming; Raw milk,2016,A01,reviewed_unique,A01,1,All member products share one coarse target.
+R3,5,Pigs farming (+2 more),2016,A01,reviewed_unique,A01,1,All member products share one coarse target.
+R3,6,"Animal products nec; Wool, silk-worm cocoons",2016,A01,reviewed_unique,A01,1,All member products share one coarse target.
+R3,7,"Forestry, logging and related service activities",2016,A02,reviewed_unique,A02,1,All member products share one coarse target.
+R3,8,"Fishing, operating of fish hatcheries and fish farms; service activities incidental to fishing",2016,A03,reviewed_unique,A03,1,All member products share one coarse target.
+R3,9,Mining of coal and lignite; extraction of peat,2016,B,reviewed_unique,B,1,All member products share one coarse target.
+R3,10,"Extraction of crude petroleum and services related to crude oil extraction, excluding surveying (+2 more)",2016,B,reviewed_unique,B,1,All member products share one coarse target.
+R3,11,Mining of uranium and thorium ores,2016,B,reviewed_unique,B,1,All member products share one coarse target.
+R3,12,Mining of iron ores,2016,B,reviewed_unique,B,1,All member products share one coarse target.
+R3,13,Mining of copper ores and concentrates (+5 more),2016,B,reviewed_unique,B,1,All member products share one coarse target.
+R3,14,Quarrying of stone,2016,B,reviewed_unique,B,1,All member products share one coarse target.
+R3,15,Quarrying of sand and clay,2016,B,reviewed_unique,B,1,All member products share one coarse target.
+R3,16,"Mining of chemical and fertilizer minerals, production of salt, other mining and quarrying n.e.c.",2016,B,reviewed_unique,B,1,All member products share one coarse target.
+R3,17,Processing of meat cattle (+3 more),2016,C10-C12,reviewed_unique,C10-C12,1,All member products share one coarse target.
+R3,18,Processing vegetable oils and fats,2016,C10-C12,reviewed_unique,C10-C12,1,All member products share one coarse target.
+R3,19,Processing of dairy products,2016,C10-C12,reviewed_unique,C10-C12,1,All member products share one coarse target.
+R3,20,Processed rice; Processing of Food products nec,2016,C10-C12,reviewed_unique,C10-C12,1,All member products share one coarse target.
+R3,21,Sugar refining,2016,C10-C12,reviewed_unique,C10-C12,1,All member products share one coarse target.
+R3,22,Manufacture of beverages,2016,C10-C12,reviewed_unique,C10-C12,1,All member products share one coarse target.
+R3,23,Manufacture of fish products,2016,C10-C12,reviewed_unique,C10-C12,1,All member products share one coarse target.
+R3,24,Manufacture of tobacco products,2016,C10-C12,reviewed_unique,C10-C12,1,All member products share one coarse target.
+R3,25,Manufacture of textiles; Manufacture of wearing apparel; dressing and dyeing of fur,2016,C13-C15,reviewed_unique,C13-C15,1,All member products share one coarse target.
+R3,26,"Tanning and dressing of leather; manufacture of luggage, handbags, saddlery, harness and footwear",2016,C13-C15,reviewed_unique,C13-C15,1,All member products share one coarse target.
+R3,27,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials; Re-processing of secondary wood material into new wood material",2016,C16,reviewed_unique,C16,1,All member products share one coarse target.
+R3,28,Pulp; Re-processing of secondary paper into new pulp,2016,C17,reviewed_unique,C17,1,All member products share one coarse target.
+R3,29,Paper,2016,C17,reviewed_unique,C17,1,All member products share one coarse target.
+R3,30,"Publishing, printing and reproduction of recorded media",2016,C18,reviewed_unique,C18,1,All member products share one coarse target.
+R3,31,Manufacture of coke oven products,2016,C19,reviewed_unique,C19,1,All member products share one coarse target.
+R3,32,Petroleum Refinery,2016,C19,reviewed_unique,C19,1,All member products share one coarse target.
+R3,33,Processing of nuclear fuel,2016,C19,reviewed_unique,C19,1,All member products share one coarse target.
+R3,34,"Plastics, basic; Re-processing of secondary plastic into new plastic",2016,C20,reviewed_unique,C20,1,All member products share one coarse target.
+R3,35,N-fertiliser; P- and other fertiliser,2016,C20,reviewed_unique,C20,1,All member products share one coarse target.
+R3,36,Chemicals nec,2016,C20,reviewed_unique,C20,1,All member products share one coarse target.
+R3,37,Manufacture of rubber and plastic products,2016,C22,reviewed_unique,C22,1,All member products share one coarse target.
+R3,38,Manufacture of glass and glass products; Re-processing of secondary glass into new glass,2016,C23,reviewed_unique,C23,1,All member products share one coarse target.
+R3,39,Manufacture of ceramic goods,2016,C23,reviewed_unique,C23,1,All member products share one coarse target.
+R3,40,"Manufacture of bricks, tiles and construction products, in baked clay",2016,C23,reviewed_unique,C23,1,All member products share one coarse target.
+R3,41,"Manufacture of cement, lime and plaster; Re-processing of ash into clinker",2016,C23,reviewed_unique,C23,1,All member products share one coarse target.
+R3,42,Manufacture of other non-metallic mineral products n.e.c.,2016,C23,reviewed_unique,C23,1,All member products share one coarse target.
+R3,43,Manufacture of basic iron and steel and of ferro-alloys and first products thereof; Re-processing of secondary steel into new steel,2016,C24,reviewed_unique,C24,1,All member products share one coarse target.
+R3,44,Precious metals production; Re-processing of secondary preciuos metals into new preciuos metals,2016,C24,reviewed_unique,C24,1,All member products share one coarse target.
+R3,45,Aluminium production; Re-processing of secondary aluminium into new aluminium,2016,C24,reviewed_unique,C24,1,All member products share one coarse target.
+R3,46,"Lead, zinc and tin production; Re-processing of secondary lead into new lead",2016,C24,reviewed_unique,C24,1,All member products share one coarse target.
+R3,47,Copper production; Re-processing of secondary copper into new copper,2016,C24,reviewed_unique,C24,1,All member products share one coarse target.
+R3,48,Other non-ferrous metal production; Re-processing of secondary other non-ferrous metals into new other non-ferrous metals,2016,C24,reviewed_unique,C24,1,All member products share one coarse target.
+R3,49,Casting of metals,2016,C24,reviewed_unique,C24,1,All member products share one coarse target.
+R3,50,"Manufacture of fabricated metal products, except machinery and equipment",2016,C25,reviewed_unique,C25,1,All member products share one coarse target.
+R3,51,Manufacture of machinery and equipment n.e.c.,2016,C28,reviewed_unique,C28,1,All member products share one coarse target.
+R3,52,Manufacture of office machinery and computers (+2 more),2016,C26,reviewed_unique,C26,1,"Manual classification review: member divisions 30, 32 and 33 all map to computer/electronic/optical manufacturing on this target grid."
+R3,53,Manufacture of electrical machinery and apparatus n.e.c.,2016,C27,reviewed_unique,C27,1,All member products share one coarse target.
+R3,54,"Manufacture of motor vehicles, trailers and semi-trailers; Manufacture of other transport equipment",2016,,unresolved_one_to_many,C29 | C30,2,Genuine composite R3 group spans multiple coarse sectors. A data-derived allocation matrix is required; no target or weights selected.
+R3,55,Manufacture of furniture; manufacturing n.e.c.,2016,C31_C32,reviewed_unique,C31_C32,1,All member products share one coarse target.
+R3,56,Recycling of waste and scrap; Recycling of bottles by direct reuse,2016,C33,reviewed_unique,C33,1,All member products share one coarse target.
+R3,57,Production of electricity by coal (+2 more),2016,D35,reviewed_unique,D35,1,All member products share one coarse target.
+R3,58,Production of electricity by nuclear,2016,D35,reviewed_unique,D35,1,All member products share one coarse target.
+R3,59,Production of electricity by hydro,2016,D35,reviewed_unique,D35,1,All member products share one coarse target.
+R3,60,Production of electricity by wind; Production of electricity by solar photovoltaic,2016,D35,reviewed_unique,D35,1,All member products share one coarse target.
+R3,61,Production of electricity by biomass and waste (+4 more),2016,D35,reviewed_unique,D35,1,All member products share one coarse target.
+R3,62,Transmission of electricity,2016,D35,reviewed_unique,D35,1,All member products share one coarse target.
+R3,63,Distribution and trade of electricity,2016,D35,reviewed_unique,D35,1,All member products share one coarse target.
+R3,64,Manufacture of gas; distribution of gaseous fuels through mains,2016,D35,reviewed_unique,D35,1,All member products share one coarse target.
+R3,65,Steam and hot water supply,2016,D35,reviewed_unique,D35,1,All member products share one coarse target.
+R3,66,"Collection, purification and distribution of water",2016,E36,reviewed_unique,E36,1,All member products share one coarse target.
+R3,67,Construction,2016,F,reviewed_unique,F,1,All member products share one coarse target.
+R3,68,Re-processing of secondary construction material into aggregates,2016,F,reviewed_unique,F,1,All member products share one coarse target.
+R3,69,"Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessoiries; Retail sale of automotive fuel",2016,G45,reviewed_unique,G45,1,All member products share one coarse target.
+R3,70,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",2016,G46,reviewed_unique,G46,1,All member products share one coarse target.
+R3,71,"Retail trade, except of motor vehicles and motorcycles; repair of personal and household goods",2016,G47,reviewed_unique,G47,1,All member products share one coarse target.
+R3,72,Hotels and restaurants,2016,I,reviewed_unique,I,1,All member products share one coarse target.
+R3,73,Transport via railways,2016,H49,reviewed_unique,H49,1,All member products share one coarse target.
+R3,74,Other land transport,2016,H49,reviewed_unique,H49,1,All member products share one coarse target.
+R3,75,Transport via pipelines,2016,H49,reviewed_unique,H49,1,All member products share one coarse target.
+R3,76,Sea and coastal water transport,2016,H50,reviewed_unique,H50,1,All member products share one coarse target.
+R3,77,Inland water transport,2016,H50,reviewed_unique,H50,1,All member products share one coarse target.
+R3,78,Air transport,2016,H51,reviewed_unique,H51,1,All member products share one coarse target.
+R3,79,Supporting and auxiliary transport activities; activities of travel agencies,2016,H52,reviewed_unique,H52,1,All member products share one coarse target.
+R3,80,Post and telecommunications,2016,J61,reviewed_unique,J61,1,All member products share one coarse target.
+R3,81,"Financial intermediation, except insurance and pension funding",2016,K64,reviewed_unique,K64,1,All member products share one coarse target.
+R3,82,"Insurance and pension funding, except compulsory social security",2016,K65,reviewed_unique,K65,1,All member products share one coarse target.
+R3,83,Activities auxiliary to financial intermediation,2016,K66,reviewed_unique,K66,1,All member products share one coarse target.
+R3,84,Real estate activities,2016,L68,reviewed_unique,L68,1,All member products share one coarse target.
+R3,85,Renting of machinery and equipment without operator and of personal and household goods,2016,N,reviewed_unique,N,1,All member products share one coarse target.
+R3,86,Computer and related activities (+2 more),2016,,unresolved_one_to_many,J62_J63 | M69_M70 | M72,3,Genuine composite R3 group spans multiple coarse sectors. A data-derived allocation matrix is required; no target or weights selected.
+R3,87,Public administration and defence; compulsory social security,2016,O84,reviewed_unique,O84,1,All member products share one coarse target.
+R3,88,Education,2016,P85,reviewed_unique,P85,1,All member products share one coarse target.
+R3,89,Health and social work,2016,Q86,reviewed_unique,Q86,1,All member products share one coarse target.
+R3,90,Incineration of waste: Food (+6 more),2016,E37-E39,reviewed_unique,E37-E39,1,All member products share one coarse target.
+R3,91,"Biogasification of food waste, incl. land application (+2 more)",2016,E37-E39,reviewed_unique,E37-E39,1,All member products share one coarse target.
+R3,92,"Composting of food waste, incl. land application; Composting of paper and wood, incl. land application",2016,E37-E39,reviewed_unique,E37-E39,1,All member products share one coarse target.
+R3,93,"Waste water treatment, food; Waste water treatment, other",2016,E37-E39,reviewed_unique,E37-E39,1,All member products share one coarse target.
+R3,94,Landfill of waste: Food (+5 more),2016,E37-E39,reviewed_unique,E37-E39,1,All member products share one coarse target.
+R3,95,"Activities of membership organisation n.e.c.; Recreational, cultural and sporting activities",2016,R_S,reviewed_unique,R_S,1,All member products share one coarse target.
+R3,96,Other service activities; Private households with employed persons,2016,,unresolved_one_to_many,R_S | T,2,Genuine composite R3 group spans multiple coarse sectors. A data-derived allocation matrix is required; no target or weights selected.
+R3,97,Manure treatment outside SI3 scope (WIOT2013 AtB),2016,A01,reviewed_unique,A01,1,All member products share one coarse target.
+R3,98,Extra-territorial organisations outside SI3 scope (WIOT2013 L),2016,U,reviewed_unique,U,1,All member products share one coarse target.
+R3,1,Cultivation of paddy rice (+2 more),2013,AtB,reviewed_unique,AtB,1,All member products share one coarse target.
+R3,2,"Cultivation of vegetables, fruit, nuts; Cultivation of oil seeds",2013,AtB,reviewed_unique,AtB,1,All member products share one coarse target.
+R3,3,"Cultivation of sugar cane, sugar beet (+2 more)",2013,AtB,reviewed_unique,AtB,1,All member products share one coarse target.
+R3,4,Cattle farming; Raw milk,2013,AtB,reviewed_unique,AtB,1,All member products share one coarse target.
+R3,5,Pigs farming (+2 more),2013,AtB,reviewed_unique,AtB,1,All member products share one coarse target.
+R3,6,"Animal products nec; Wool, silk-worm cocoons",2013,AtB,reviewed_unique,AtB,1,All member products share one coarse target.
+R3,7,"Forestry, logging and related service activities",2013,AtB,reviewed_unique,AtB,1,All member products share one coarse target.
+R3,8,"Fishing, operating of fish hatcheries and fish farms; service activities incidental to fishing",2013,AtB,reviewed_unique,AtB,1,All member products share one coarse target.
+R3,9,Mining of coal and lignite; extraction of peat,2013,C,reviewed_unique,C,1,All member products share one coarse target.
+R3,10,"Extraction of crude petroleum and services related to crude oil extraction, excluding surveying (+2 more)",2013,C,reviewed_unique,C,1,All member products share one coarse target.
+R3,11,Mining of uranium and thorium ores,2013,C,reviewed_unique,C,1,All member products share one coarse target.
+R3,12,Mining of iron ores,2013,C,reviewed_unique,C,1,All member products share one coarse target.
+R3,13,Mining of copper ores and concentrates (+5 more),2013,C,reviewed_unique,C,1,All member products share one coarse target.
+R3,14,Quarrying of stone,2013,C,reviewed_unique,C,1,All member products share one coarse target.
+R3,15,Quarrying of sand and clay,2013,C,reviewed_unique,C,1,All member products share one coarse target.
+R3,16,"Mining of chemical and fertilizer minerals, production of salt, other mining and quarrying n.e.c.",2013,C,reviewed_unique,C,1,All member products share one coarse target.
+R3,17,Processing of meat cattle (+3 more),2013,15t16,reviewed_unique,15t16,1,All member products share one coarse target.
+R3,18,Processing vegetable oils and fats,2013,15t16,reviewed_unique,15t16,1,All member products share one coarse target.
+R3,19,Processing of dairy products,2013,15t16,reviewed_unique,15t16,1,All member products share one coarse target.
+R3,20,Processed rice; Processing of Food products nec,2013,15t16,reviewed_unique,15t16,1,All member products share one coarse target.
+R3,21,Sugar refining,2013,15t16,reviewed_unique,15t16,1,All member products share one coarse target.
+R3,22,Manufacture of beverages,2013,15t16,reviewed_unique,15t16,1,All member products share one coarse target.
+R3,23,Manufacture of fish products,2013,15t16,reviewed_unique,15t16,1,All member products share one coarse target.
+R3,24,Manufacture of tobacco products,2013,15t16,reviewed_unique,15t16,1,All member products share one coarse target.
+R3,25,Manufacture of textiles; Manufacture of wearing apparel; dressing and dyeing of fur,2013,17t18,reviewed_unique,17t18,1,All member products share one coarse target.
+R3,26,"Tanning and dressing of leather; manufacture of luggage, handbags, saddlery, harness and footwear",2013,19,reviewed_unique,19,1,All member products share one coarse target.
+R3,27,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials; Re-processing of secondary wood material into new wood material",2013,20,reviewed_unique,20,1,All member products share one coarse target.
+R3,28,Pulp; Re-processing of secondary paper into new pulp,2013,21t22,reviewed_unique,21t22,1,All member products share one coarse target.
+R3,29,Paper,2013,21t22,reviewed_unique,21t22,1,All member products share one coarse target.
+R3,30,"Publishing, printing and reproduction of recorded media",2013,21t22,reviewed_unique,21t22,1,All member products share one coarse target.
+R3,31,Manufacture of coke oven products,2013,23,reviewed_unique,23,1,All member products share one coarse target.
+R3,32,Petroleum Refinery,2013,23,reviewed_unique,23,1,All member products share one coarse target.
+R3,33,Processing of nuclear fuel,2013,23,reviewed_unique,23,1,All member products share one coarse target.
+R3,34,"Plastics, basic; Re-processing of secondary plastic into new plastic",2013,24,reviewed_unique,24,1,All member products share one coarse target.
+R3,35,N-fertiliser; P- and other fertiliser,2013,24,reviewed_unique,24,1,All member products share one coarse target.
+R3,36,Chemicals nec,2013,24,reviewed_unique,24,1,All member products share one coarse target.
+R3,37,Manufacture of rubber and plastic products,2013,25,reviewed_unique,25,1,All member products share one coarse target.
+R3,38,Manufacture of glass and glass products; Re-processing of secondary glass into new glass,2013,26,reviewed_unique,26,1,All member products share one coarse target.
+R3,39,Manufacture of ceramic goods,2013,26,reviewed_unique,26,1,All member products share one coarse target.
+R3,40,"Manufacture of bricks, tiles and construction products, in baked clay",2013,26,reviewed_unique,26,1,All member products share one coarse target.
+R3,41,"Manufacture of cement, lime and plaster; Re-processing of ash into clinker",2013,26,reviewed_unique,26,1,All member products share one coarse target.
+R3,42,Manufacture of other non-metallic mineral products n.e.c.,2013,26,reviewed_unique,26,1,All member products share one coarse target.
+R3,43,Manufacture of basic iron and steel and of ferro-alloys and first products thereof; Re-processing of secondary steel into new steel,2013,27t28,reviewed_unique,27t28,1,All member products share one coarse target.
+R3,44,Precious metals production; Re-processing of secondary preciuos metals into new preciuos metals,2013,27t28,reviewed_unique,27t28,1,All member products share one coarse target.
+R3,45,Aluminium production; Re-processing of secondary aluminium into new aluminium,2013,27t28,reviewed_unique,27t28,1,All member products share one coarse target.
+R3,46,"Lead, zinc and tin production; Re-processing of secondary lead into new lead",2013,27t28,reviewed_unique,27t28,1,All member products share one coarse target.
+R3,47,Copper production; Re-processing of secondary copper into new copper,2013,27t28,reviewed_unique,27t28,1,All member products share one coarse target.
+R3,48,Other non-ferrous metal production; Re-processing of secondary other non-ferrous metals into new other non-ferrous metals,2013,27t28,reviewed_unique,27t28,1,All member products share one coarse target.
+R3,49,Casting of metals,2013,27t28,reviewed_unique,27t28,1,All member products share one coarse target.
+R3,50,"Manufacture of fabricated metal products, except machinery and equipment",2013,27t28,reviewed_unique,27t28,1,All member products share one coarse target.
+R3,51,Manufacture of machinery and equipment n.e.c.,2013,29,reviewed_unique,29,1,All member products share one coarse target.
+R3,52,Manufacture of office machinery and computers (+2 more),2013,30t33,reviewed_unique,30t33,1,"Manual classification review: member divisions 30, 32 and 33 all map to computer/electronic/optical manufacturing on this target grid."
+R3,53,Manufacture of electrical machinery and apparatus n.e.c.,2013,30t33,reviewed_unique,30t33,1,All member products share one coarse target.
+R3,54,"Manufacture of motor vehicles, trailers and semi-trailers; Manufacture of other transport equipment",2013,34t35,reviewed_unique,34t35,1,All member products share one coarse target.
+R3,55,Manufacture of furniture; manufacturing n.e.c.,2013,36t37,reviewed_unique,36t37,1,All member products share one coarse target.
+R3,56,Recycling of waste and scrap; Recycling of bottles by direct reuse,2013,36t37,reviewed_unique,36t37,1,All member products share one coarse target.
+R3,57,Production of electricity by coal (+2 more),2013,E,reviewed_unique,E,1,All member products share one coarse target.
+R3,58,Production of electricity by nuclear,2013,E,reviewed_unique,E,1,All member products share one coarse target.
+R3,59,Production of electricity by hydro,2013,E,reviewed_unique,E,1,All member products share one coarse target.
+R3,60,Production of electricity by wind; Production of electricity by solar photovoltaic,2013,E,reviewed_unique,E,1,All member products share one coarse target.
+R3,61,Production of electricity by biomass and waste (+4 more),2013,E,reviewed_unique,E,1,All member products share one coarse target.
+R3,62,Transmission of electricity,2013,E,reviewed_unique,E,1,All member products share one coarse target.
+R3,63,Distribution and trade of electricity,2013,E,reviewed_unique,E,1,All member products share one coarse target.
+R3,64,Manufacture of gas; distribution of gaseous fuels through mains,2013,E,reviewed_unique,E,1,All member products share one coarse target.
+R3,65,Steam and hot water supply,2013,E,reviewed_unique,E,1,All member products share one coarse target.
+R3,66,"Collection, purification and distribution of water",2013,E,reviewed_unique,E,1,All member products share one coarse target.
+R3,67,Construction,2013,F,reviewed_unique,F,1,All member products share one coarse target.
+R3,68,Re-processing of secondary construction material into aggregates,2013,F,reviewed_unique,F,1,All member products share one coarse target.
+R3,69,"Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessoiries; Retail sale of automotive fuel",2013,50,reviewed_unique,50,1,All member products share one coarse target.
+R3,70,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",2013,51,reviewed_unique,51,1,All member products share one coarse target.
+R3,71,"Retail trade, except of motor vehicles and motorcycles; repair of personal and household goods",2013,52,reviewed_unique,52,1,All member products share one coarse target.
+R3,72,Hotels and restaurants,2013,H,reviewed_unique,H,1,All member products share one coarse target.
+R3,73,Transport via railways,2013,60,reviewed_unique,60,1,All member products share one coarse target.
+R3,74,Other land transport,2013,60,reviewed_unique,60,1,All member products share one coarse target.
+R3,75,Transport via pipelines,2013,60,reviewed_unique,60,1,All member products share one coarse target.
+R3,76,Sea and coastal water transport,2013,61,reviewed_unique,61,1,All member products share one coarse target.
+R3,77,Inland water transport,2013,61,reviewed_unique,61,1,All member products share one coarse target.
+R3,78,Air transport,2013,62,reviewed_unique,62,1,All member products share one coarse target.
+R3,79,Supporting and auxiliary transport activities; activities of travel agencies,2013,63,reviewed_unique,63,1,All member products share one coarse target.
+R3,80,Post and telecommunications,2013,64,reviewed_unique,64,1,All member products share one coarse target.
+R3,81,"Financial intermediation, except insurance and pension funding",2013,J,reviewed_unique,J,1,All member products share one coarse target.
+R3,82,"Insurance and pension funding, except compulsory social security",2013,J,reviewed_unique,J,1,All member products share one coarse target.
+R3,83,Activities auxiliary to financial intermediation,2013,J,reviewed_unique,J,1,All member products share one coarse target.
+R3,84,Real estate activities,2013,70,reviewed_unique,70,1,All member products share one coarse target.
+R3,85,Renting of machinery and equipment without operator and of personal and household goods,2013,71t74,reviewed_unique,71t74,1,All member products share one coarse target.
+R3,86,Computer and related activities (+2 more),2013,71t74,reviewed_unique,71t74,1,All member products share one coarse target.
+R3,87,Public administration and defence; compulsory social security,2013,L,reviewed_unique,L,1,All member products share one coarse target.
+R3,88,Education,2013,M,reviewed_unique,M,1,All member products share one coarse target.
+R3,89,Health and social work,2013,N,reviewed_unique,N,1,All member products share one coarse target.
+R3,90,Incineration of waste: Food (+6 more),2013,E,reviewed_unique,E,1,All member products share one coarse target.
+R3,91,"Biogasification of food waste, incl. land application (+2 more)",2013,E,reviewed_unique,E,1,All member products share one coarse target.
+R3,92,"Composting of food waste, incl. land application; Composting of paper and wood, incl. land application",2013,E,reviewed_unique,E,1,All member products share one coarse target.
+R3,93,"Waste water treatment, food; Waste water treatment, other",2013,E,reviewed_unique,E,1,All member products share one coarse target.
+R3,94,Landfill of waste: Food (+5 more),2013,E,reviewed_unique,E,1,All member products share one coarse target.
+R3,95,"Activities of membership organisation n.e.c.; Recreational, cultural and sporting activities",2013,O,reviewed_unique,O,1,All member products share one coarse target.
+R3,96,Other service activities; Private households with employed persons,2013,,unresolved_one_to_many,O | P,2,Genuine composite R3 group spans multiple coarse sectors. A data-derived allocation matrix is required; no target or weights selected.
+R3,97,Manure treatment outside SI3 scope (WIOT2013 AtB),2013,AtB,reviewed_unique,AtB,1,All member products share one coarse target.
+R3,98,Extra-territorial organisations outside SI3 scope (WIOT2013 L),2013,L,reviewed_unique,L,1,All member products share one coarse target.

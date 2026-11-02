@@ -1,0 +1,34 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+.venv/
+dist/
+build/
+*.egg-info/
+results/
+reports/
+data/
+*.log
+.idea/
+
+# Local agent instructions and session planning (kept on disk).
+/AGENTS.md
+/docs/analysis/ANALYSIS_TODO.md
+/docs/analysis/SHARED_ROADMAP_TODO.md
+/docs/analysis/WEEKLY_PLAN_20260907.md
+/docs/analysis/native_wiod_v2_20260903/TODO_20260904.md
+/docs/analysis/cp1_truncation_20260904/_scratch_43_regen_resolution_figure.py
+/docs/analysis/RESULTS_REVIEW_PLAN_20260908.md
+/.codex/
+/.claude/
+/.agents/
+/CLAUDE.md
+
+# Internal development records are excluded from the thesis source release.
+/docs/analysis/
+/docs/decisions/
+/docs/handoffs/
+/tmp/
+
+/docs/
